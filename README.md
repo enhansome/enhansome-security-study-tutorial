@@ -4,50 +4,50 @@ Summary of online learning materials
 
 ## Awesome
 
-* <https://github.com/vinta/awesome-python> ⭐ 316,938 | 🐛 18 | 🌐 Python | 📅 2026-08-25
-* <https://github.com/Hack-with-Github/Awesome-Hacking> ⭐ 119,306 | 🐛 40 | 📅 2026-07-26
+* <https://github.com/vinta/awesome-python> ⭐ 317,127 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+* <https://github.com/Hack-with-Github/Awesome-Hacking> ⭐ 119,368 | 🐛 40 | 📅 2026-07-26
 * <https://github.com/bayandin/awesome-awesomeness> ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* <https://github.com/enaqx/awesome-pentest> ⭐ 27,050 | 🐛 106 | 📅 2026-07-25
-* <https://github.com/carpedm20/awesome-hacking> ⭐ 16,965 | 🐛 69 | 📅 2024-06-02
-* <https://github.com/sbilly/awesome-security> ⭐ 14,807 | 🐛 317 | 📅 2026-01-11
-* <https://github.com/hslatman/awesome-threat-intelligence> ⭐ 10,581 | 🐛 117 | 📅 2026-05-31
-* <https://github.com/ashishb/android-security-awesome> ⭐ 9,651 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21
-* <https://github.com/toniblyx/my-arsenal-of-aws-security-tools> ⭐ 9,502 | 🐛 10 | 🌐 Shell | 📅 2026-07-07
-* <https://github.com/meirwah/awesome-incident-response> ⭐ 9,358 | 🐛 75 | 📅 2026-07-15
+* <https://github.com/enaqx/awesome-pentest> ⭐ 27,064 | 🐛 106 | 📅 2026-07-25
+* <https://github.com/carpedm20/awesome-hacking> ⭐ 16,972 | 🐛 69 | 📅 2024-06-02
+* <https://github.com/sbilly/awesome-security> ⭐ 14,815 | 🐛 319 | 📅 2026-01-11
+* <https://github.com/hslatman/awesome-threat-intelligence> ⭐ 10,584 | 🐛 117 | 📅 2026-05-31
+* <https://github.com/ashishb/android-security-awesome> ⭐ 9,657 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21
+* <https://github.com/toniblyx/my-arsenal-of-aws-security-tools> ⭐ 9,503 | 🐛 11 | 🌐 Shell | 📅 2026-07-07
+* <https://github.com/meirwah/awesome-incident-response> ⭐ 9,361 | 🐛 76 | 📅 2026-07-15
 * <https://github.com/yeyintminthuhtut/Awesome-Red-Teaming> ⭐ 8,075 | 🐛 19 | 📅 2023-12-28
-* <https://github.com/paragonie/awesome-appsec> ⭐ 7,046 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
-* <https://github.com/secfigo/Awesome-Fuzzing> ⭐ 5,905 | 🐛 10 | 📅 2024-04-03
-* <https://github.com/djadmin/awesome-bug-bounty> ⭐ 5,877 | 🐛 30 | 📅 2026-03-07
+* <https://github.com/paragonie/awesome-appsec> ⭐ 7,046 | 🐛 42 | 🌐 PHP | 📅 2025-02-22
+* <https://github.com/secfigo/Awesome-Fuzzing> ⭐ 5,908 | 🐛 10 | 📅 2024-04-03
+* <https://github.com/djadmin/awesome-bug-bounty> ⭐ 5,880 | 🐛 30 | 📅 2026-03-07
 * <https://github.com/s0md3v/AwesomeXSS> ⭐ 5,141 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-30
-* <https://github.com/joe-shenouda/awesome-cyber-skills> ⭐ 4,643 | 🐛 8 | 📅 2024-07-02
-* <https://github.com/jaredthecoder/awesome-vehicle-security> ⭐ 4,534 | 🐛 3 | 📅 2026-05-30
+* <https://github.com/joe-shenouda/awesome-cyber-skills> ⭐ 4,644 | 🐛 8 | 📅 2024-07-02
+* <https://github.com/jaredthecoder/awesome-vehicle-security> ⭐ 4,537 | 🐛 3 | 📅 2026-05-30
 * <https://github.com/InQuest/awesome-yara> ⭐ 4,264 | 🐛 1 | 📅 2026-06-15
-* <https://github.com/PaulSec/awesome-sec-talks> ⭐ 4,231 | 🐛 0 | 📅 2026-02-17
+* <https://github.com/PaulSec/awesome-sec-talks> ⭐ 4,232 | 🐛 0 | 📅 2026-02-17
 * <https://github.com/qazbnm456/awesome-cve-poc> ⭐ 3,528 | 🐛 2 | 📅 2022-01-04
 * <https://github.com/snoopysecurity/awesome-burp-extensions> ⭐ 3,440 | 🐛 1 | 📅 2026-08-15
 * <https://github.com/jonathandion/awesome-emails> ⭐ 2,740 | 🐛 48 | 📅 2024-10-03
 * <https://github.com/nebgnahz/awesome-iot-hacks> ⭐ 2,425 | 🐛 3 | 📅 2020-05-16
 * <https://github.com/Escapingbug/awesome-browser-exploit> ⭐ 2,295 | 🐛 0 | 📅 2023-09-18
-* <https://github.com/FabioBaroni/awesome-exploit-development> ⭐ 2,121 | 🐛 3 | 📅 2022-05-27
+* <https://github.com/FabioBaroni/awesome-exploit-development> ⭐ 2,120 | 🐛 3 | 📅 2022-05-27
 * <https://github.com/Hack-with-Github/Awesome-Security-Gists> ⭐ 979 | 🐛 0 | 📅 2017-11-04
 * <https://github.com/dhaval17/awsome-security-write-ups-and-POCs> ⭐ 572 | 🐛 0 | 📅 2026-07-22
 
 ## Checklist
 
-* <https://github.com/shieldfy/API-Security-Checklist> ⭐ 23,306 | 🐛 2 | 📅 2026-07-21
+* <https://github.com/shieldfy/API-Security-Checklist> ⭐ 23,307 | 🐛 2 | 📅 2026-07-21
 * <https://github.com/netbiosX/Checklists> ⭐ 2,657 | 🐛 1 | 📅 2025-07-27
 * <https://github.com/brunofacca/zen-rails-security-checklist> ⭐ 1,811 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
 * <https://github.com/b-mueller/android_app_security_checklist> ⭐ 891 | 🐛 6 | 📅 2022-08-27
-* <https://github.com/privacyradius/gdpr-checklist> ⭐ 777 | 🐛 55 | 🌐 JavaScript | 📅 2023-09-12
+* <https://github.com/privacyradius/gdpr-checklist> ⭐ 781 | 🐛 55 | 🌐 JavaScript | 📅 2023-09-12
 * <https://github.com/SecarmaLabs/IoTChecklist> ⭐ 30 | 🐛 0 | 📅 2017-08-25
 
 ## Developer
 
-* <https://github.com/EbookFoundation/free-programming-books> ⭐ 395,521 | 🐛 82 | 🌐 Python | 📅 2026-08-29
-* <https://github.com/jaywcjlove/awesome-mac> ⭐ 112,070 | 🐛 763 | 🌐 Swift | 📅 2026-08-29
+* <https://github.com/EbookFoundation/free-programming-books> ⭐ 395,581 | 🐛 81 | 🌐 Python | 📅 2026-08-30
+* <https://github.com/jaywcjlove/awesome-mac> ⭐ 112,126 | 🐛 769 | 🌐 Swift | 📅 2026-08-30
 * <https://github.com/bayandin/awesome-awesomeness> ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers) ⭐ 21,097 | 🐛 18 | 📅 2025-08-30
-* <https://github.com/yosriady/api-development-tools> ⭐ 4,016 | 🐛 45 | 📅 2025-12-20
+* [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers) ⭐ 21,096 | 🐛 18 | 📅 2025-08-30
+* <https://github.com/yosriady/api-development-tools> ⭐ 4,016 | 🐛 46 | 📅 2025-12-20
 * <https://github.com/riusksk/secbook> ⭐ 3,225 | 🐛 4 | 📅 2024-04-21
 * <https://github.com/ExpLife0011/awesome-windows-kernel-security-development> ⭐ 2,075 | 🐛 2 | 📅 2022-09-06
 * <https://github.com/NB-STAR/Security-Operation> ⭐ 161 | 🐛 0 | 🌐 Roff | 📅 2019-07-30
@@ -57,28 +57,28 @@ Summary of online learning materials
 
 ## Pentest
 
-* [A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 241,029 | 🐛 171 | 📅 2024-11-19
-* [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,473 | 🐛 35 | 🌐 Python | 📅 2026-08-27
-* <https://github.com/danielmiessler/SecLists> ⭐ 73,147 | 🐛 13 | 🌐 PHP | 📅 2026-08-29
-* [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets) ⭐ 33,014 | 🐛 68 | 🌐 Python | 📅 2026-08-25
+* [A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 241,194 | 🐛 171 | 📅 2024-11-19
+* [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,502 | 🐛 35 | 🌐 Python | 📅 2026-08-27
+* <https://github.com/danielmiessler/SecLists> ⭐ 73,173 | 🐛 13 | 🌐 PHP | 📅 2026-08-30
+* [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets) ⭐ 33,026 | 🐛 68 | 🌐 Python | 📅 2026-08-25
 * <https://github.com/Micropoor/Micro8> ⭐ 18,055 | 🐛 17 | 📅 2021-04-10
-* [渗透测试、红队攻击、网络安全资源大集合](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 13,942 | 🐛 28 | 📅 2023-04-03
-* <https://github.com/redcanaryco/atomic-red-team> ⭐ 12,463 | 🐛 30 | 🌐 C | 📅 2026-08-28
-* <https://github.com/infosecn1nja/Red-Teaming-Toolkit> ⭐ 10,661 | 🐛 8 | 📅 2026-05-07
-* [Curated list of public penetration test reports released by several consulting firms and academic security groups](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,699 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [渗透测试、红队攻击、网络安全资源大集合](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 13,944 | 🐛 28 | 📅 2023-04-03
+* <https://github.com/redcanaryco/atomic-red-team> ⭐ 12,464 | 🐛 30 | 🌐 C | 📅 2026-08-28
+* <https://github.com/infosecn1nja/Red-Teaming-Toolkit> ⭐ 10,658 | 🐛 8 | 📅 2026-05-07
+* [Curated list of public penetration test reports released by several consulting firms and academic security groups](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,703 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 * [Penetration Testing / OSCP Biggest Reference Bank / Cheatsheet](https://github.com/OlivierLaflamme/Cheatsheet-God) ⭐ 5,623 | 🐛 7 | 📅 2024-12-12
-* [Awesome Cybersecurity Blue Team - 蓝队防御相关的工具、文章资料收集](https://github.com/meitar/awesome-cybersecurity-blueteam) ⭐ 5,545 | 🐛 76 | 📅 2024-07-15
+* [Awesome Cybersecurity Blue Team - 蓝队防御相关的工具、文章资料收集](https://github.com/meitar/awesome-cybersecurity-blueteam) ⭐ 5,547 | 🐛 77 | 📅 2024-07-15
 * [The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,313 | 🐛 37 | 🌐 Python | 📅 2026-05-19
 * [Attack and defend active directory using modern post exploitation adversary tradecraft activity](https://github.com/infosecn1nja/AD-Attack-Defense) ⭐ 4,859 | 🐛 2 | 📅 2025-07-29
-* <https://github.com/Ridter/Intranet_Penetration_Tips> ⭐ 4,612 | 🐛 0 | 📅 2023-02-24
+* <https://github.com/Ridter/Intranet_Penetration_Tips> ⭐ 4,613 | 🐛 0 | 📅 2023-02-24
 * <https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki> ⭐ 4,520 | 🐛 0 | 📅 2025-10-01
-* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) ⭐ 4,300 | 🐛 7 | 🌐 HTML | 📅 2021-10-02
-* [A collected list of awesome security talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,231 | 🐛 0 | 📅 2026-02-17
+* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) ⭐ 4,301 | 🐛 7 | 🌐 HTML | 📅 2021-10-02
+* [A collected list of awesome security talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,232 | 🐛 0 | 📅 2026-02-17
 * [Decrypted content of eqgrp-auction-file.tar.xz](https://github.com/x0rz/EQGRP) ⭐ 4,203 | 🐛 17 | 🌐 Perl | 📅 2017-05-24
-* [PENTEST-WIKI is a free online security knowledge library for pentesters / researchers](https://github.com/nixawk/pentest-wiki) ⭐ 3,753 | 🐛 21 | 🌐 Python | 📅 2023-09-13
+* [PENTEST-WIKI is a free online security knowledge library for pentesters / researchers](https://github.com/nixawk/pentest-wiki) ⭐ 3,761 | 🐛 21 | 🌐 Python | 📅 2023-09-13
 * [Penetration tests cases, resources and guidelines.](https://github.com/Voorivex/pentest-guide) ⭐ 2,826 | 🐛 2 | 📅 2022-03-23
 * <https://github.com/rewardone/OSCPRepo> ⭐ 2,753 | 🐛 1 | 🌐 C | 📅 2020-06-22
-* <https://github.com/tiancode/learn-hacking> ⭐ 2,264 | 🐛 2 | 📅 2026-05-31
+* <https://github.com/tiancode/learn-hacking> ⭐ 2,266 | 🐛 2 | 📅 2026-05-31
 * [Great security list for fun and profit](https://github.com/zbetcheckin/Security_list) ⭐ 1,881 | 🐛 11 | 📅 2022-12-14
 * [Proof-of-concept codes created as part of security research done by Google Security Team.](https://github.com/google/security-research-pocs) ⚠️ Archived
 * [HTA encryption tool for RedTeams](https://github.com/nccgroup/demiguise) ⭐ 1,429 | 🐛 11 | 🌐 Python | 📅 2022-11-09
@@ -108,7 +108,7 @@ Summary of online learning materials
 
 ## Malware
 
-* <https://github.com/rshipp/awesome-malware-analysis> ⭐ 14,163 | 🐛 25 | 📅 2024-06-07
+* <https://github.com/rshipp/awesome-malware-analysis> ⭐ 14,168 | 🐛 25 | 📅 2024-06-07
 * [Various public documents, whitepapers and articles about APT campaigns](https://github.com/kbandla/APTnotes) ⭐ 3,669 | 🐛 4 | 📅 2024-01-01
 * [针对以色列某未知 APT 恶意样本的分析报告](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Israel/APT/Unknown/26-08-19/Malware%20analysis%2026-08-19.md) ⭐ 725 | 🐛 1 | 🌐 JavaScript | 📅 2022-12-26
 * <https://github.com/rootm0s/Injectors> ⚠️ Archived
@@ -135,12 +135,12 @@ Summary of online learning materials
 
 ## Fuzzing
 
-* [OSS-Fuzz - continuous fuzzing of open source software](https://github.com/google/oss-fuzz) ⭐ 12,600 | 🐛 755 | 🌐 Shell | 📅 2026-08-26
-* <https://github.com/fuzzdb-project/fuzzdb> ⭐ 8,979 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
+* [OSS-Fuzz - continuous fuzzing of open source software](https://github.com/google/oss-fuzz) ⭐ 12,603 | 🐛 753 | 🌐 Shell | 📅 2026-08-30
+* <https://github.com/fuzzdb-project/fuzzdb> ⭐ 8,981 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
 * [Web application fuzzer](https://github.com/xmendez/wfuzz) ⭐ 6,561 | 🐛 117 | 🌐 Python | 📅 2026-01-21
 * [Scalable fuzzing infrastructure.](https://github.com/google/clusterfuzz) ⭐ 5,596 | 🐛 88 | 🌐 Python | 📅 2026-08-29
 * [Google 建了一个 Fuzzing Repo，用来放 Fuzzing 相关的文档、教程等资源 ](https://github.com/google/fuzzing) ⚠️ Archived
-* [Potentially dangerous files](https://github.com/Bo0oM/fuzz.txt) ⭐ 3,320 | 🐛 8 | 📅 2026-07-28
+* [Potentially dangerous files](https://github.com/Bo0oM/fuzz.txt) ⭐ 3,321 | 🐛 8 | 📅 2026-07-28
 * [DOM fuzzer](https://github.com/googleprojectzero/domato) ⭐ 1,784 | 🐛 3 | 🌐 Python | 📅 2024-11-26
 * [NSA finest tool](https://github.com/fuzzbunch/fuzzbunch) ⭐ 995 | 🐛 11 | 🌐 Python | 📅 2017-04-17
 * [nccgroup团队基于Sulley构造的一个对网络协议进行模糊测试的工具。](https://github.com/nccgroup/fuzzowski) ⭐ 794 | 🐛 13 | 🌐 Python | 📅 2024-01-29
@@ -205,17 +205,17 @@ Summary of online learning materials
 
 ## Operating System
 
-* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,315 | 🐛 35 | 📅 2026-07-13
-* <https://github.com/drduh/macOS-Security-and-Privacy-Guide> ⭐ 22,499 | 🐛 6 | 📅 2026-08-29
+* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,354 | 🐛 35 | 📅 2026-07-13
+* <https://github.com/drduh/macOS-Security-and-Privacy-Guide> ⭐ 22,502 | 🐛 6 | 📅 2026-08-29
 * [Vulnerability scanner for Linux/FreeBSD, agentless, written in Go](https://github.com/future-architect/vuls) ⭐ 12,246 | 🐛 87 | 🌐 Go | 📅 2026-08-28
-* <https://github.com/trimstray/test-your-sysadmin-skills> ⭐ 11,847 | 🐛 19 | 📅 2024-11-19
+* <https://github.com/trimstray/test-your-sysadmin-skills> ⭐ 11,845 | 🐛 19 | 📅 2024-11-19
 * [A practical guide to advanced Linux security in production environments](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,821 | 🐛 10 | 📅 2024-11-19
 * [API samples for the Universal Windows Platform.](https://github.com/Microsoft/Windows-universal-samples) ⭐ 9,696 | 🐛 155 | 🌐 JavaScript | 📅 2026-05-14
 * [Windows memory hacking library](https://github.com/DarthTon/Blackbone) ⭐ 5,480 | 🐛 111 | 🌐 C++ | 📅 2024-01-26
 * <https://github.com/GDSSecurity/Windows-Exploit-Suggester> ⚠️ Archived
 * <https://github.com/EasyHook/EasyHook> ⭐ 3,294 | 🐛 186 | 🌐 C | 📅 2024-01-25
-* <https://github.com/zodiacon/WindowsInternals> ⭐ 2,773 | 🐛 6 | 🌐 C | 📅 2024-04-11
-* <https://github.com/j00ru/windows-syscalls> ⭐ 2,636 | 🐛 3 | 🌐 HTML | 📅 2025-12-30
+* <https://github.com/zodiacon/WindowsInternals> ⭐ 2,774 | 🐛 6 | 🌐 C | 📅 2024-04-11
+* <https://github.com/j00ru/windows-syscalls> ⭐ 2,637 | 🐛 3 | 🌐 HTML | 📅 2025-12-30
 * [Set of tools to analyze and attack Windows sandboxes.](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) ⭐ 2,334 | 🐛 18 | 🌐 C# | 📅 2025-11-06
 * [some learning notes about Linux Security](https://github.com/JnuSimba/LinuxSecNotes) ⭐ 454 | 🐛 1 | 📅 2023-04-03
 * <https://github.com/wstart/DB_BaseLine> ⭐ 179 | 🐛 2 | 🌐 Python | 📅 2018-05-28
@@ -225,8 +225,8 @@ Summary of online learning materials
 
 ## Blockchain
 
-* <https://github.com/dvf/blockchain> ⭐ 8,042 | 🐛 133 | 🌐 C# | 📅 2024-07-21
-* [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) ⭐ 4,596 | 🐛 0 | 📅 2026-08-12
+* <https://github.com/dvf/blockchain> ⭐ 8,041 | 🐛 133 | 🌐 C# | 📅 2024-07-21
+* [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) ⭐ 4,595 | 🐛 0 | 📅 2026-08-12
 * <https://github.com/liuchengxu/blockchain-tutorial> ⭐ 2,455 | 🐛 6 | 🌐 Go | 📅 2025-03-24
 * [SlowMist Vulnerability Research Advisories ](https://github.com/slowmist/papers) ⭐ 279 | 🐛 1 | 📅 2025-02-26
 * <https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList> ⭐ 166 | 🐛 0 | 📅 2019-08-02
@@ -279,11 +279,11 @@ Summary of online learning materials
 
 * [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,721 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * <https://github.com/offensive-security/exploitdb> ⚠️ Archived
-* <https://github.com/SecWiki/linux-kernel-exploits> ⭐ 5,652 | 🐛 4 | 🌐 C | 📅 2020-07-13
+* <https://github.com/SecWiki/linux-kernel-exploits> ⭐ 5,654 | 🐛 4 | 🌐 C | 📅 2020-07-13
 * [Automated Mass Exploiter](https://github.com/NullArray/AutoSploit) ⭐ 5,254 | 🐛 132 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/rootm0s/WinPwnage> ⭐ 2,753 | 🐛 5 | 🌐 Python | 📅 2023-02-13
 * [MS17-010](https://github.com/worawit/MS17-010) ⭐ 2,260 | 🐛 36 | 🌐 Python | 📅 2023-06-20
-* <https://github.com/lukechilds/reverse-shell> ⭐ 2,055 | 🐛 1 | 🌐 Go | 📅 2026-02-18
+* <https://github.com/lukechilds/reverse-shell> ⭐ 2,058 | 🐛 1 | 🌐 Go | 📅 2026-02-18
 * [A bunch of links related to VMware escape exploits](https://github.com/xairy/vmware-exploitation) ⭐ 1,492 | 🐛 0 | 📅 2024-09-04
 * [Windows Exploits](https://github.com/WindowsExploits/Exploits) ⭐ 1,303 | 🐛 11 | 🌐 PowerShell | 📅 2020-05-29
 * [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course) ⭐ 1,015 | 🐛 4 | 🌐 Python | 📅 2020-08-24
@@ -299,17 +299,17 @@ Summary of online learning materials
 
 ### OSINT
 
-* <https://github.com/jivoi/awesome-osint> ⭐ 28,737 | 🐛 9 | 📅 2026-08-25
-* [Incredibly fast crawler designed for OSINT.](https://github.com/s0md3v/Photon) ⭐ 13,156 | 🐛 59 | 🌐 Python | 📅 2026-08-07
-* [OSINT Framework](https://github.com/lockfale/OSINT-Framework) ⭐ 12,025 | 🐛 86 | 🌐 JavaScript | 📅 2026-07-25
-* [People tracker on the Internet: OSINT analysis and research tool by Jose Pino](https://github.com/jofpin/trape) ⭐ 8,981 | 🐛 255 | 🌐 Python | 📅 2024-06-20
-* [Email OSINT and password breach hunting.](https://github.com/khast3x/h8mail) ⭐ 5,274 | 🐛 39 | 🌐 Python | 📅 2023-08-15
+* <https://github.com/jivoi/awesome-osint> ⭐ 28,958 | 🐛 10 | 📅 2026-08-25
+* [Incredibly fast crawler designed for OSINT.](https://github.com/s0md3v/Photon) ⭐ 13,153 | 🐛 59 | 🌐 Python | 📅 2026-08-07
+* [OSINT Framework](https://github.com/lockfale/OSINT-Framework) ⭐ 12,030 | 🐛 86 | 🌐 JavaScript | 📅 2026-07-25
+* [People tracker on the Internet: OSINT analysis and research tool by Jose Pino](https://github.com/jofpin/trape) ⭐ 8,985 | 🐛 255 | 🌐 Python | 📅 2024-06-20
+* [Email OSINT and password breach hunting.](https://github.com/khast3x/h8mail) ⭐ 5,275 | 🐛 39 | 🌐 Python | 📅 2023-08-15
 * <https://github.com/Moham3dRiahi/Th3inspector> ⭐ 2,663 | 🐛 13 | 🌐 Perl | 📅 2025-04-21
 * [Maintained collection of OSINT related resources. (All Free & Actionable)](https://github.com/Ph055a/OSINT-Collection) ⚠️ Archived
 
 ### Wordlist
 
-* <https://github.com/LandGrey/pydictor> ⭐ 3,651 | 🐛 13 | 🌐 Python | 📅 2024-12-05
+* <https://github.com/LandGrey/pydictor> ⭐ 3,652 | 🐛 13 | 🌐 Python | 📅 2024-12-05
 * <https://github.com/brannondorsey/PassGAN> ⭐ 2,012 | 🐛 29 | 🌐 Python | 📅 2023-02-24
 * <https://github.com/RicterZ/genpAss> ⭐ 740 | 🐛 6 | 🌐 Python | 📅 2019-11-20
 * <https://github.com/bit4woo/passmaker> ⭐ 560 | 🐛 2 | 🌐 Python | 📅 2024-04-20
@@ -317,7 +317,7 @@ Summary of online learning materials
 
 ### Git
 
-* [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog) ⭐ 27,626 | 🐛 525 | 🌐 Go | 📅 2026-08-28
+* [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog) ⭐ 27,631 | 🐛 525 | 🌐 Go | 📅 2026-08-28
 * [Reconnaissance tool for GitHub organizations](https://github.com/michenriksen/gitrob) ⚠️ Archived
 * [GitHub Sensitive Information Leakage](https://github.com/FeeiCN/GSIL) ⚠️ Archived
 * [GitHub Sensitive Information Leakage Monitor Spider](https://github.com/0xbug/Hawkeye) ⭐ 2,034 | 🐛 58 | 🌐 Vue | 📅 2022-05-21
@@ -330,9 +330,9 @@ Summary of online learning materials
 ### IoT
 
 * [Exploitation Framework for Embedded Devices](https://github.com/threat9/routersploit) ⭐ 13,225 | 🐛 97 | 🌐 Python | 📅 2026-05-05
-* <https://github.com/jaredthecoder/awesome-vehicle-security> ⭐ 4,534 | 🐛 3 | 📅 2026-05-30
+* <https://github.com/jaredthecoder/awesome-vehicle-security> ⭐ 4,537 | 🐛 3 | 📅 2026-05-30
 * [Printer Exploitation Toolkit ](https://github.com/RUB-NDS/PRET) ⭐ 4,303 | 🐛 73 | 🌐 Python | 📅 2024-08-02
-* <https://github.com/V33RU/IoTSecurity101> ⭐ 3,524 | 🐛 0 | 📅 2026-08-29
+* <https://github.com/V33RU/IoTSecurity101> ⭐ 3,525 | 🐛 0 | 📅 2026-08-29
 * [嵌入式与 IoT 安全方向的资料](https://github.com/fkie-cad/awesome-embedded-and-iot-security) ⭐ 2,431 | 🐛 2 | 📅 2023-10-17
 * <https://github.com/w3h/icsmaster> ⭐ 959 | 🐛 0 | 🌐 Lua | 📅 2019-01-04
 * <https://github.com/jiayy/android_vuln_poc-exp> ⭐ 797 | 🐛 5 | 🌐 C | 📅 2025-04-25
@@ -350,27 +350,27 @@ Summary of online learning materials
 
 ### Traffic
 
-* [Malicious traffic detection system](https://github.com/stamparm/maltrail) ⭐ 8,587 | 🐛 25 | 🌐 Python | 📅 2026-08-29
+* [Malicious traffic detection system](https://github.com/stamparm/maltrail) ⭐ 8,590 | 🐛 25 | 🌐 Rust | 📅 2026-08-30
 
 ### Honey
 
-* <https://github.com/paralax/awesome-honeypots> ⭐ 10,537 | 🐛 23 | 🌐 Python | 📅 2026-06-01
+* <https://github.com/paralax/awesome-honeypots> ⭐ 10,540 | 🐛 23 | 🌐 Python | 📅 2026-06-01
 * <https://github.com/ysrc/yulong-hids> ⚠️ Archived
 * [Kippo - SSH Honeypot](https://github.com/desaster/kippo) ⭐ 1,715 | 🐛 83 | 🌐 Python | 📅 2023-11-19
 * <https://github.com/ppacher/honeyssh> ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2019-10-18
 
 ### Hunter
 
-* [Modlishka. Reverse Proxy. Phishing NG.](https://github.com/drk1wi/Modlishka) ⭐ 5,407 | 🐛 1 | 🌐 Go | 📅 2026-08-14
+* [Modlishka. Reverse Proxy. Phishing NG.](https://github.com/drk1wi/Modlishka) ⭐ 5,409 | 🐛 1 | 🌐 Go | 📅 2026-08-14
 * <https://github.com/SpiderLabs/Responder> ⚠️ Archived
-* <https://github.com/Cyb3rWard0g/ThreatHunter-Playbook> ⭐ 4,646 | 🐛 6 | 🌐 Python | 📅 2026-01-12
+* <https://github.com/Cyb3rWard0g/ThreatHunter-Playbook> ⭐ 4,647 | 🐛 6 | 🌐 Python | 📅 2026-01-12
 * [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) ⭐ 4,100 | 🐛 0 | 🌐 YARA | 📅 2024-07-25
 * [The Hunting ELK](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,931 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01
 * <https://github.com/kbandla/APTnotes> ⭐ 3,669 | 🐛 4 | 📅 2024-01-01
 * <https://github.com/dafthack/MailSniper> ⭐ 3,276 | 🐛 21 | 🌐 PowerShell | 📅 2026-08-26
 * [A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator) ⭐ 2,765 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23
 * [An informational repo about hunting for adversaries in your IT environment.](https://github.com/ThreatHuntingProject/ThreatHunting) ⭐ 1,886 | 🐛 7 | 📅 2021-11-17
-* <https://github.com/aptnotes/data> ⭐ 1,810 | 🐛 38 | 📅 2024-12-16
+* <https://github.com/aptnotes/data> ⭐ 1,811 | 🐛 38 | 📅 2024-12-16
 * <https://github.com/threatexpress/domainhunter> ⭐ 1,679 | 🐛 9 | 🌐 Python | 📅 2024-06-06
 * <https://github.com/A3sal0n/CyberThreatHunting> ⭐ 917 | 🐛 1 | 🌐 Python | 📅 2024-10-15
 * <https://github.com/Tencent/HaboMalHunter> ⭐ 751 | 🐛 7 | 🌐 Python | 📅 2023-04-07
@@ -380,18 +380,18 @@ Summary of online learning materials
 
 ### Scanner
 
-* [Web path scanner](https://github.com/maurosoria/dirsearch) ⭐ 14,669 | 🐛 24 | 🌐 Python | 📅 2026-08-27
-* [Automated pentest framework for offensive security experts ](https://github.com/1N3/Sn1per) ⭐ 11,163 | 🐛 8 | 🌐 Shell | 📅 2026-07-04
+* [Web path scanner](https://github.com/maurosoria/dirsearch) ⭐ 14,673 | 🐛 24 | 🌐 Python | 📅 2026-08-27
+* [Automated pentest framework for offensive security experts ](https://github.com/1N3/Sn1per) ⭐ 11,167 | 🐛 8 | 🌐 Shell | 📅 2026-07-04
 * [Next generation web scanner](https://github.com/urbanadventurer/WhatWeb) ⭐ 6,803 | 🐛 51 | 🌐 Ruby | 📅 2026-04-02
-* [OpenVAS remote network security scanner](https://github.com/greenbone/openvas-scanner) ⭐ 4,802 | 🐛 22 | 🌐 Rust | 📅 2026-08-28
+* [OpenVAS remote network security scanner](https://github.com/greenbone/openvas-scanner) ⭐ 4,803 | 🐛 22 | 🌐 Rust | 📅 2026-08-28
 * [Web Application Security Scanner Framework](https://github.com/Arachni/arachni) ⚠️ Archived
 * [A high performance offensive security tool for reconnaissance and vulnerability scanning](https://github.com/evyatarmeged/Raccoon) ⭐ 4,005 | 🐛 14 | 🌐 Python | 📅 2026-04-21
 * [Fast and powerful SSL/TLS server scanning library.](https://github.com/nabla-c0d3/sslyze) ⭐ 3,775 | 🐛 31 | 🌐 Python | 📅 2026-08-29
 * <https://github.com/ysrc/xunfeng> ⭐ 3,597 | 🐛 70 | 🌐 Python | 📅 2024-04-16
 * <https://github.com/joaomatosf/jexboss> ⭐ 2,518 | 🐛 28 | 🌐 Python | 📅 2020-01-21
 * [分布式web漏洞扫描](https://github.com/TideSec/WDScanner) ⭐ 2,099 | 🐛 7 | 🌐 PHP | 📅 2020-06-22
-* [Docker security analysis & hacking tools](https://github.com/cr0hn/dockerscan) ⭐ 1,713 | 🐛 2 | 🌐 Go | 📅 2026-08-29
-* [Golang编写的开源POC检测框架](https://github.com/opensec-cn/kunpeng) ⭐ 1,664 | 🐛 25 | 🌐 Go | 📅 2023-02-25
+* [Docker security analysis & hacking tools](https://github.com/cr0hn/dockerscan) ⭐ 1,713 | 🐛 2 | 🌐 Go | 📅 2026-08-30
+* [Golang编写的开源POC检测框架](https://github.com/opensec-cn/kunpeng) ⭐ 1,665 | 🐛 25 | 🌐 Go | 📅 2023-02-25
 * [AIL framework - Analysis Information Leak framework](https://github.com/CIRCL/AIL-framework) ⭐ 1,378 | 🐛 107 | 🌐 Python | 📅 2026-08-28
 * [Network Security Vulnerability Scanner](https://github.com/jeffzh3ng/Fuxi-Scanner) ⭐ 1,346 | 🐛 12 | 🌐 Python | 📅 2022-07-06
 * [Fast CORS misconfiguration vulnerabilities scanner](https://github.com/chenjj/CORScanner) ⭐ 1,162 | 🐛 1 | 🌐 Python | 📅 2021-11-25
@@ -405,7 +405,7 @@ Summary of online learning materials
 
 ### Phisher
 
-* <https://github.com/wifiphisher/wifiphisher> ⭐ 14,796 | 🐛 353 | 🌐 Python | 📅 2026-05-22
+* <https://github.com/wifiphisher/wifiphisher> ⭐ 14,798 | 🐛 353 | 🌐 Python | 📅 2026-05-22
 * <https://github.com/ryhanson/phishery> ⭐ 1,020 | 🐛 8 | 🌐 Go | 📅 2017-09-11
 * [Ruby on Rails Phishing Framework ](https://github.com/pentestgeek/phishing-frenzy) ⭐ 896 | 🐛 51 | 🌐 PHP | 📅 2023-11-07
 * [Swordphish Phishing Awareness Tool](https://github.com/certsocietegenerale/swordphish-awareness) ⭐ 226 | 🐛 6 | 🌐 Python | 📅 2024-09-22
@@ -425,9 +425,9 @@ Summary of online learning materials
 
 ### Wordlist
 
-* <https://github.com/berzerk0/Probable-Wordlists> ⭐ 9,334 | 🐛 21 | 📅 2023-10-04
-* <https://github.com/We5ter/Scanners-Box> ⭐ 9,029 | 🐛 1 | 📅 2026-08-12
-* <https://github.com/jeanphorn/wordlist> ⭐ 1,802 | 🐛 2 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/berzerk0/Probable-Wordlists> ⭐ 9,335 | 🐛 21 | 📅 2023-10-04
+* <https://github.com/We5ter/Scanners-Box> ⭐ 9,028 | 🐛 1 | 📅 2026-08-12
+* <https://github.com/jeanphorn/wordlist> ⭐ 1,803 | 🐛 2 | 🌐 Python | 📅 2026-04-28
 
 ### Proxy
 
@@ -446,11 +446,11 @@ Summary of online learning materials
 
 ### Other
 
-* <https://github.com/MobSF/Mobile-Security-Framework-MobSF> ⭐ 21,663 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-27
+* <https://github.com/MobSF/Mobile-Security-Framework-MobSF> ⭐ 21,665 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-27
 * <https://github.com/PowerShellMafia/PowerSploit> ⚠️ Archived
-* <https://github.com/beefproject/beef> ⭐ 10,990 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-28
-* [List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,502 | 🐛 10 | 🌐 Shell | 📅 2026-07-07
-* <https://github.com/meirwah/awesome-incident-response> ⭐ 9,358 | 🐛 75 | 📅 2026-07-15
+* <https://github.com/beefproject/beef> ⭐ 10,992 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-28
+* [List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,503 | 🐛 11 | 🌐 Shell | 📅 2026-07-07
+* <https://github.com/meirwah/awesome-incident-response> ⭐ 9,361 | 🐛 76 | 📅 2026-07-15
 * [An advanced memory forensics framework](https://github.com/volatilityfoundation/volatility) ⚠️ Archived
 * <https://github.com/EmpireProject/Empire> ⚠️ Archived
 * [A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications](https://github.com/python-security/pyt) ⭐ 2,201 | 🐛 28 | 🌐 Python | 📅 2020-12-25
@@ -473,7 +473,7 @@ Summary of online learning materials
 
 ### XXE
 
-* <https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.md> ⭐ 33,014 | 🐛 68 | 🌐 Python | 📅 2026-08-25
+* <https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.md> ⭐ 33,026 | 🐛 68 | 🌐 Python | 📅 2026-08-25
 * <https://github.com/enjoiz/XXEinjector> ⭐ 1,798 | 🐛 0 | 🌐 Ruby | 📅 2024-12-01
 * <https://github.com/BuffaloWill/oxml_xxe> ⭐ 1,178 | 🐛 2 | 🌐 Ruby | 📅 2024-12-16
 * <https://www.w3.org/TR/REC-xml/#sec-prolog-dtd>
@@ -496,7 +496,7 @@ Summary of online learning materials
 
 ### XSS
 
-* <https://github.com/s0md3v/XSStrike> ⭐ 15,159 | 🐛 94 | 🌐 Python | 📅 2025-04-26
+* <https://github.com/s0md3v/XSStrike> ⭐ 15,160 | 🐛 94 | 🌐 Python | 📅 2025-04-26
 * <https://github.com/evilcos/xssor2> ⭐ 2,224 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-12
 * [ 浏览器 XSS Filter 绕过速查表 ](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet) ⭐ 1,159 | 🐛 1 | 📅 2017-05-06
 * [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass) ⭐ 1,159 | 🐛 1 | 📅 2017-05-06
@@ -510,7 +510,7 @@ Summary of online learning materials
 
 ### Shooting
 
-* <https://github.com/vulhub/vulhub> ⭐ 21,178 | 🐛 52 | 🌐 Dockerfile | 📅 2026-07-22
+* <https://github.com/vulhub/vulhub> ⭐ 21,183 | 🐛 52 | 🌐 Dockerfile | 📅 2026-07-22
 * <https://github.com/Medicean/VulApps> ⚠️ Archived
 * <https://github.com/s4n7h0/xvwa> ⚠️ Archived
 * <https://github.com/payatu/diva-android> ⭐ 1,141 | 🐛 13 | 🌐 Java | 📅 2023-05-19
@@ -524,14 +524,14 @@ Summary of online learning materials
 
 ### Other
 
-* <https://github.com/Hacker0x01/hacker101> ⭐ 14,520 | 🐛 3 | 🌐 SCSS | 📅 2025-02-22
-* <https://github.com/ctf-wiki/ctf-wiki> ⭐ 9,600 | 🐛 65 | 🌐 Python | 📅 2026-08-23
+* <https://github.com/Hacker0x01/hacker101> ⭐ 14,522 | 🐛 3 | 🌐 SCSS | 📅 2025-02-22
+* <https://github.com/ctf-wiki/ctf-wiki> ⭐ 9,601 | 🐛 65 | 🌐 Python | 📅 2026-08-23
 * [A list of interesting payloads, tips and tricks for bug bounty hunters.](https://github.com/EdOverflow/bugbounty-cheatsheet) ⭐ 6,535 | 🐛 12 | 📅 2023-09-14
 * <https://github.com/SecWiki/sec-chart> ⭐ 6,500 | 🐛 3 | 📅 2021-09-02
-* <https://github.com/OWASP/Top10> ⭐ 6,027 | 🐛 56 | 🌐 HTML | 📅 2026-08-05
+* <https://github.com/OWASP/Top10> ⭐ 6,028 | 🐛 56 | 🌐 HTML | 📅 2026-08-05
 * <https://github.com/trustedsec/ptf> ⭐ 5,558 | 🐛 9 | 🌐 Python | 📅 2024-09-22
 * [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) ⭐ 4,602 | 🐛 3 | 📅 2023-12-22
-* [NSE script based on Vulners.com API](https://github.com/vulnersCom/nmap-vulners) ⭐ 3,416 | 🐛 0 | 🌐 Lua | 📅 2026-08-21
+* [NSE script based on Vulners.com API](https://github.com/vulnersCom/nmap-vulners) ⭐ 3,417 | 🐛 0 | 🌐 Lua | 📅 2026-08-21
 * <https://github.com/evilcos/papers> ⭐ 2,238 | 🐛 1 | 📅 2022-10-30
 * [1000个PHP代码审计案例(2016.7以前乌云公开漏洞)](https://github.com/Xyntax/1000php) ⭐ 1,106 | 🐛 1 | 🌐 HTML | 📅 2016-07-26
 * [some learning notes about Web/Cloud/Docker Security、 Penetration Test、 Security Building](https://github.com/JnuSimba/MiscSecNotes) ⭐ 923 | 🐛 0 | 📅 2024-09-14
@@ -541,4 +541,4 @@ Summary of online learning materials
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
