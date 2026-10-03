@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "vinta/awesome-python",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324664,
+            "stars": 324780,
             "topics": [
               "awesome",
               "awesome-list",
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Hack-with-Github/Awesome-Hacking",
-          "description": null,
+          "description": "Hack-with-Github/Awesome-Hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121700,
+            "stars": 121733,
             "topics": [
               "android",
               "awesome",
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "bayandin/awesome-awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -86,7 +86,7 @@
         {
           "node_type": "item",
           "title": "enaqx/awesome-pentest",
-          "description": null,
+          "description": "enaqx/awesome-pentest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -99,7 +99,7 @@
             "open_issues": 133,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27327,
+            "stars": 27331,
             "topics": [
               "awesome",
               "awesome-list"
@@ -110,7 +110,7 @@
         {
           "node_type": "item",
           "title": "carpedm20/awesome-hacking",
-          "description": null,
+          "description": "carpedm20/awesome-hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -134,7 +134,7 @@
         {
           "node_type": "item",
           "title": "sbilly/awesome-security",
-          "description": null,
+          "description": "sbilly/awesome-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -147,7 +147,7 @@
             "open_issues": 350,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14928,
+            "stars": 14930,
             "topics": [
               "awesome-list",
               "security"
@@ -158,7 +158,7 @@
         {
           "node_type": "item",
           "title": "hslatman/awesome-threat-intelligence",
-          "description": null,
+          "description": "hslatman/awesome-threat-intelligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,7 +171,7 @@
             "open_issues": 143,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10692,
+            "stars": 10694,
             "topics": [
               "awesome",
               "awesome-list",
@@ -184,7 +184,7 @@
         {
           "node_type": "item",
           "title": "ashishb/android-security-awesome",
-          "description": null,
+          "description": "ashishb/android-security-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -197,7 +197,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9722,
+            "stars": 9723,
             "topics": [
               "android",
               "awesome",
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "toniblyx/my-arsenal-of-aws-security-tools",
-          "description": null,
+          "description": "toniblyx/my-arsenal-of-aws-security-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,8 +220,8 @@
             "id": 141482866,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-07T14:45:14Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T20:21:00Z",
+            "open_issues": 11,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
             "stars": 9514,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "meirwah/awesome-incident-response",
-          "description": null,
+          "description": "meirwah/awesome-incident-response",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,7 +257,7 @@
             "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9426,
+            "stars": 9427,
             "topics": [
               "awesome",
               "awesome-list",
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "yeyintminthuhtut/Awesome-Red-Teaming",
-          "description": null,
+          "description": "yeyintminthuhtut/Awesome-Red-Teaming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "paragonie/awesome-appsec",
-          "description": null,
+          "description": "paragonie/awesome-appsec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -330,7 +330,7 @@
         {
           "node_type": "item",
           "title": "djadmin/awesome-bug-bounty",
-          "description": null,
+          "description": "djadmin/awesome-bug-bounty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -343,7 +343,7 @@
             "open_issues": 32,
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5926,
+            "stars": 5925,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:06.304Z"
@@ -351,7 +351,7 @@
         {
           "node_type": "item",
           "title": "secfigo/Awesome-Fuzzing",
-          "description": null,
+          "description": "secfigo/Awesome-Fuzzing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -364,7 +364,7 @@
             "open_issues": 12,
             "owner": "secfigo",
             "repo": "Awesome-Fuzzing",
-            "stars": 5917,
+            "stars": 5919,
             "topics": [
               "awesome",
               "awesome-list",
@@ -378,7 +378,7 @@
         {
           "node_type": "item",
           "title": "s0md3v/AwesomeXSS",
-          "description": null,
+          "description": "s0md3v/AwesomeXSS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -406,7 +406,7 @@
         {
           "node_type": "item",
           "title": "joe-shenouda/awesome-cyber-skills",
-          "description": null,
+          "description": "joe-shenouda/awesome-cyber-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -427,7 +427,7 @@
         {
           "node_type": "item",
           "title": "jaredthecoder/awesome-vehicle-security",
-          "description": null,
+          "description": "jaredthecoder/awesome-vehicle-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
             "open_issues": 7,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4679,
+            "stars": 4681,
             "topics": [
               "automotive",
               "awesome",
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "pedramamini/awesome-yara",
-          "description": null,
+          "description": "pedramamini/awesome-yara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4280,
+            "stars": 4281,
             "topics": [
               "awesome",
               "awesome-list",
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "PaulSec/awesome-sec-talks",
-          "description": null,
+          "description": "PaulSec/awesome-sec-talks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -510,7 +510,7 @@
             "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4236,
+            "stars": 4237,
             "topics": [
               "conferences",
               "hacking",
@@ -523,7 +523,7 @@
         {
           "node_type": "item",
           "title": "qazbnm456/awesome-cve-poc",
-          "description": null,
+          "description": "qazbnm456/awesome-cve-poc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -548,7 +548,7 @@
         {
           "node_type": "item",
           "title": "snoopysecurity/awesome-burp-extensions",
-          "description": null,
+          "description": "snoopysecurity/awesome-burp-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -569,7 +569,7 @@
         {
           "node_type": "item",
           "title": "jonathandion/awesome-emails",
-          "description": null,
+          "description": "jonathandion/awesome-emails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -601,7 +601,7 @@
         {
           "node_type": "item",
           "title": "nebgnahz/awesome-iot-hacks",
-          "description": null,
+          "description": "nebgnahz/awesome-iot-hacks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -614,7 +614,7 @@
             "open_issues": 3,
             "owner": "nebgnahz",
             "repo": "awesome-iot-hacks",
-            "stars": 2429,
+            "stars": 2428,
             "topics": [
               "awesome",
               "hack",
@@ -627,7 +627,7 @@
         {
           "node_type": "item",
           "title": "Escapingbug/awesome-browser-exploit",
-          "description": null,
+          "description": "Escapingbug/awesome-browser-exploit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +652,7 @@
         {
           "node_type": "item",
           "title": "FabioBaroni/awesome-exploit-development",
-          "description": null,
+          "description": "FabioBaroni/awesome-exploit-development",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "Hack-with-Github/Awesome-Security-Gists",
-          "description": null,
+          "description": "Hack-with-Github/Awesome-Security-Gists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,7 +702,7 @@
         {
           "node_type": "item",
           "title": "dhaval17/awsome-security-write-ups-and-POCs",
-          "description": null,
+          "description": "dhaval17/awsome-security-write-ups-and-POCs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "shieldfy/API-Security-Checklist",
-          "description": null,
+          "description": "shieldfy/API-Security-Checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,7 +747,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23329,
+            "stars": 23330,
             "topics": [
               "api",
               "jwt",
@@ -760,7 +760,7 @@
         {
           "node_type": "item",
           "title": "netbiosX/Checklists",
-          "description": null,
+          "description": "netbiosX/Checklists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -781,7 +781,7 @@
         {
           "node_type": "item",
           "title": "brunofacca/zen-rails-security-checklist",
-          "description": null,
+          "description": "brunofacca/zen-rails-security-checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -809,7 +809,7 @@
         {
           "node_type": "item",
           "title": "muellerberndt/android_app_security_checklist",
-          "description": null,
+          "description": "muellerberndt/android_app_security_checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,7 +830,7 @@
         {
           "node_type": "item",
           "title": "privacyradius/gdpr-checklist",
-          "description": null,
+          "description": "privacyradius/gdpr-checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -858,7 +858,7 @@
         {
           "node_type": "item",
           "title": "SecarmaLabs/IoTChecklist",
-          "description": null,
+          "description": "SecarmaLabs/IoTChecklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -885,7 +885,7 @@
         {
           "node_type": "item",
           "title": "EbookFoundation/free-programming-books",
-          "description": null,
+          "description": "EbookFoundation/free-programming-books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -894,11 +894,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-02T19:35:16Z",
+            "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398311,
+            "stars": 398352,
             "topics": [
               "books",
               "education",
@@ -912,7 +912,7 @@
         {
           "node_type": "item",
           "title": "jaywcjlove/awesome-mac",
-          "description": null,
+          "description": "jaywcjlove/awesome-mac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -921,11 +921,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T07:15:33Z",
-            "open_issues": 1071,
+            "last_commit": "2026-10-03T04:26:43Z",
+            "open_issues": 1080,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 115280,
+            "stars": 115304,
             "topics": [
               "app",
               "apple",
@@ -954,7 +954,7 @@
         {
           "node_type": "item",
           "title": "bayandin/awesome-awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -975,7 +975,7 @@
         {
           "node_type": "item",
           "title": "Security Guide for Developers",
-          "description": null,
+          "description": "FallibleInc/security-guide-for-developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1002,7 +1002,7 @@
         {
           "node_type": "item",
           "title": "yosriady/awesome-api-devtools",
-          "description": null,
+          "description": "yosriady/awesome-api-devtools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1015,7 +1015,7 @@
             "open_issues": 57,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4017,
+            "stars": 4018,
             "topics": [
               "api",
               "api-client",
@@ -1031,7 +1031,7 @@
         {
           "node_type": "item",
           "title": "riusksk/secbook",
-          "description": null,
+          "description": "riusksk/secbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1052,7 +1052,7 @@
         {
           "node_type": "item",
           "title": "ExpLife0011/awesome-windows-kernel-security-development",
-          "description": null,
+          "description": "ExpLife0011/awesome-windows-kernel-security-development",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1081,7 +1081,7 @@
         {
           "node_type": "item",
           "title": "NB-STAR/Security-Operation",
-          "description": null,
+          "description": "NB-STAR/Security-Operation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1108,7 +1108,7 @@
         {
           "node_type": "item",
           "title": "A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.",
-          "description": null,
+          "description": "trimstray/the-book-of-secret-knowledge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,7 +1121,7 @@
             "open_issues": 172,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 247411,
+            "stars": 247537,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1149,7 +1149,7 @@
         {
           "node_type": "item",
           "title": "Payloads All The Things",
-          "description": null,
+          "description": "swisskyrepo/PayloadsAllTheThings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1162,7 +1162,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81415,
+            "stars": 81426,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1188,7 +1188,7 @@
         {
           "node_type": "item",
           "title": "danielmiessler/SecLists",
-          "description": null,
+          "description": "danielmiessler/SecLists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1197,11 +1197,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:16:36Z",
+            "last_commit": "2026-10-02T16:19:08Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73881,
+            "stars": 73893,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:06.304Z"
@@ -1209,7 +1209,7 @@
         {
           "node_type": "item",
           "title": "CheatSheetSeries",
-          "description": null,
+          "description": "OWASP/CheatSheetSeries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1218,11 +1218,11 @@
             "id": 162723104,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-02T16:00:13Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-03T04:54:09Z",
+            "open_issues": 2,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33381,
+            "stars": 33392,
             "topics": [
               "application-security",
               "appsec",
@@ -1238,7 +1238,7 @@
         {
           "node_type": "item",
           "title": "Micropoor/Micro8",
-          "description": null,
+          "description": "Micropoor/Micro8",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1251,7 +1251,7 @@
             "open_issues": 17,
             "owner": "Micropoor",
             "repo": "Micro8",
-            "stars": 18044,
+            "stars": 18045,
             "topics": [
               "micro8",
               "micropoor",
@@ -1263,7 +1263,7 @@
         {
           "node_type": "item",
           "title": "渗透测试、红队攻击、网络安全资源大集合",
-          "description": null,
+          "description": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1284,7 +1284,7 @@
         {
           "node_type": "item",
           "title": "redcanaryco/atomic-red-team",
-          "description": null,
+          "description": "redcanaryco/atomic-red-team",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1308,7 +1308,7 @@
         {
           "node_type": "item",
           "title": "infosecn1nja/Red-Teaming-Toolkit",
-          "description": null,
+          "description": "infosecn1nja/Red-Teaming-Toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1321,7 +1321,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10752,
+            "stars": 10753,
             "topics": [
               "hacking",
               "infosec",
@@ -1334,7 +1334,7 @@
         {
           "node_type": "item",
           "title": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
-          "description": null,
+          "description": "juliocesarfort/public-pentesting-reports",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1355,7 +1355,7 @@
         {
           "node_type": "item",
           "title": "Penetration Testing / OSCP Biggest Reference Bank / Cheatsheet",
-          "description": null,
+          "description": "OlivierLaflamme/Cheatsheet-God",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1368,7 +1368,7 @@
             "open_issues": 7,
             "owner": "OlivierLaflamme",
             "repo": "Cheatsheet-God",
-            "stars": 5645,
+            "stars": 5648,
             "topics": [
               "awesome",
               "cheatsheet",
@@ -1397,7 +1397,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cybersecurity Blue Team - 蓝队防御相关的工具、文章资料收集",
-          "description": null,
+          "description": "fabacab/awesome-cybersecurity-blueteam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1410,7 +1410,7 @@
             "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5588,
+            "stars": 5590,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -1426,7 +1426,7 @@
         {
           "node_type": "item",
           "title": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
-          "description": null,
+          "description": "RhinoSecurityLabs/pacu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1453,7 +1453,7 @@
         {
           "node_type": "item",
           "title": "Attack and defend active directory using modern post exploitation adversary tradecraft activity",
-          "description": null,
+          "description": "infosecn1nja/AD-Attack-Defense",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1466,7 +1466,7 @@
             "open_issues": 2,
             "owner": "infosecn1nja",
             "repo": "AD-Attack-Defense",
-            "stars": 4867,
+            "stars": 4866,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:06.304Z"
@@ -1474,7 +1474,7 @@
         {
           "node_type": "item",
           "title": "Ridter/Intranet_Penetration_Tips",
-          "description": null,
+          "description": "Ridter/Intranet_Penetration_Tips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1495,7 +1495,7 @@
         {
           "node_type": "item",
           "title": "bluscreenofjeff/Red-Team-Infrastructure-Wiki",
-          "description": null,
+          "description": "bluscreenofjeff/Red-Team-Infrastructure-Wiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1508,7 +1508,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4535,
+            "stars": 4536,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -1523,7 +1523,7 @@
         {
           "node_type": "item",
           "title": "Web-Security-Learning",
-          "description": null,
+          "description": "CHYbeta/Web-Security-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1548,7 +1548,7 @@
         {
           "node_type": "item",
           "title": "A collected list of awesome security talks",
-          "description": null,
+          "description": "PaulSec/awesome-sec-talks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1561,7 +1561,7 @@
             "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4236,
+            "stars": 4237,
             "topics": [
               "conferences",
               "hacking",
@@ -1574,7 +1574,7 @@
         {
           "node_type": "item",
           "title": "Decrypted content of eqgrp-auction-file.tar.xz",
-          "description": null,
+          "description": "x0rz/EQGRP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1587,7 +1587,7 @@
             "open_issues": 18,
             "owner": "x0rz",
             "repo": "EQGRP",
-            "stars": 4203,
+            "stars": 4202,
             "topics": [
               "equationgroup",
               "exploits",
@@ -1602,7 +1602,7 @@
         {
           "node_type": "item",
           "title": "PENTEST-WIKI is a free online security knowledge library for pentesters / researchers",
-          "description": null,
+          "description": "nixawk/pentest-wiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1627,7 +1627,7 @@
         {
           "node_type": "item",
           "title": "Penetration tests cases, resources and guidelines.",
-          "description": null,
+          "description": "Voorivex/pentest-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1657,7 +1657,7 @@
         {
           "node_type": "item",
           "title": "rewardone/OSCPRepo",
-          "description": null,
+          "description": "rewardone/OSCPRepo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1683,7 +1683,7 @@
         {
           "node_type": "item",
           "title": "tiancode/learn-hacking",
-          "description": null,
+          "description": "tiancode/learn-hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1704,7 +1704,7 @@
         {
           "node_type": "item",
           "title": "Great security list for fun and profit",
-          "description": null,
+          "description": "zbetcheckin/Security_list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1725,7 +1725,7 @@
         {
           "node_type": "item",
           "title": "Proof-of-concept codes created as part of security research done by Google Security Team.",
-          "description": null,
+          "description": "google/security-research-pocs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1746,7 +1746,7 @@
         {
           "node_type": "item",
           "title": "HTA encryption tool for RedTeams",
-          "description": null,
+          "description": "nccgroup/demiguise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1767,7 +1767,7 @@
         {
           "node_type": "item",
           "title": "Security Research from the Microsoft Security Response Center (MSRC)",
-          "description": null,
+          "description": "microsoft/MSRC-Security-Research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1788,7 +1788,7 @@
         {
           "node_type": "item",
           "title": "Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.",
-          "description": null,
+          "description": "trimstray/technical-whitepapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1822,7 +1822,7 @@
         {
           "node_type": "item",
           "title": "RedTeam资料收集整理",
-          "description": null,
+          "description": "jeansgit/RedTeam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1843,7 +1843,7 @@
         {
           "node_type": "item",
           "title": "ztgrace/red_team_telemetry",
-          "description": null,
+          "description": "ztgrace/red_team_telemetry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1864,7 +1864,7 @@
         {
           "node_type": "item",
           "title": "Red Team Field Manual",
-          "description": null,
+          "description": "Agahlot/RTFM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1891,7 +1891,7 @@
         {
           "node_type": "item",
           "title": "rshipp/awesome-malware-analysis",
-          "description": null,
+          "description": "rshipp/awesome-malware-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1932,7 +1932,7 @@
         {
           "node_type": "item",
           "title": "Various public documents, whitepapers and articles about APT campaigns",
-          "description": null,
+          "description": "kbandla/APTnotes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1953,7 +1953,7 @@
         {
           "node_type": "item",
           "title": "针对以色列某未知 APT 恶意样本的分析报告",
-          "description": null,
+          "description": "StrangerealIntel/CyberThreatIntel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1974,7 +1974,7 @@
         {
           "node_type": "item",
           "title": "rootm0s/Injectors",
-          "description": null,
+          "description": "rootm0s/Injectors",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2000,7 +2000,7 @@
         {
           "node_type": "item",
           "title": "Slackor - Go 语言写的一个 C&C 服务器，基于 Slack",
-          "description": null,
+          "description": "Coalfire-Research/Slackor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2031,7 +2031,7 @@
         {
           "node_type": "item",
           "title": "Personal compilation of APT malware from whitepaper releases, documents and own research",
-          "description": null,
+          "description": "sapphirex00/Threat-Hunting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2069,7 +2069,7 @@
         {
           "node_type": "item",
           "title": "OSS-Fuzz - continuous fuzzing of open source software",
-          "description": null,
+          "description": "google/oss-fuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2079,10 +2079,10 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T15:24:41Z",
-            "open_issues": 788,
+            "open_issues": 791,
             "owner": "google",
             "repo": "oss-fuzz",
-            "stars": 12687,
+            "stars": 12688,
             "topics": [
               "fuzz-testing",
               "fuzzing",
@@ -2097,7 +2097,7 @@
         {
           "node_type": "item",
           "title": "fuzzdb-project/fuzzdb",
-          "description": null,
+          "description": "fuzzdb-project/fuzzdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2118,7 +2118,7 @@
         {
           "node_type": "item",
           "title": "Web application fuzzer",
-          "description": null,
+          "description": "xmendez/wfuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2131,7 +2131,7 @@
             "open_issues": 115,
             "owner": "xmendez",
             "repo": "wfuzz",
-            "stars": 6587,
+            "stars": 6589,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:06.304Z"
@@ -2139,7 +2139,7 @@
         {
           "node_type": "item",
           "title": "Scalable fuzzing infrastructure.",
-          "description": null,
+          "description": "google/clusterfuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2148,8 +2148,8 @@
             "id": 168060021,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:46:33Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-02T22:18:27Z",
+            "open_issues": 98,
             "owner": "google",
             "repo": "clusterfuzz",
             "stars": 5607,
@@ -2165,7 +2165,7 @@
         {
           "node_type": "item",
           "title": "Google 建了一个 Fuzzing Repo，用来放 Fuzzing 相关的文档、教程等资源",
-          "description": null,
+          "description": "google/fuzzing",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2186,7 +2186,7 @@
         {
           "node_type": "item",
           "title": "Potentially dangerous files",
-          "description": null,
+          "description": "Bo0oM/fuzz.txt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2199,7 +2199,7 @@
             "open_issues": 8,
             "owner": "Bo0oM",
             "repo": "fuzz.txt",
-            "stars": 3387,
+            "stars": 3388,
             "topics": [
               "dirbuster",
               "files",
@@ -2214,7 +2214,7 @@
         {
           "node_type": "item",
           "title": "DOM fuzzer",
-          "description": null,
+          "description": "googleprojectzero/domato",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2239,7 +2239,7 @@
         {
           "node_type": "item",
           "title": "NSA finest tool",
-          "description": null,
+          "description": "fuzzbunch/fuzzbunch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2260,7 +2260,7 @@
         {
           "node_type": "item",
           "title": "nccgroup团队基于Sulley构造的一个对网络协议进行模糊测试的工具。",
-          "description": null,
+          "description": "nccgroup/fuzzowski",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2281,7 +2281,7 @@
         {
           "node_type": "item",
           "title": "RetroWrite: 让闭源binary支持AFL和ASAN的Binary rewriting 工具",
-          "description": null,
+          "description": "HexHive/retrowrite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2310,7 +2310,7 @@
         {
           "node_type": "item",
           "title": "针对 Java 语言的基于覆盖率的 Fuzz 框架",
-          "description": null,
+          "description": "rohanpadhye/JQF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2338,7 +2338,7 @@
         {
           "node_type": "item",
           "title": "Jsfuzz: coverage-guided fuzz testing for Javascript",
-          "description": null,
+          "description": "fuzzitdev/jsfuzz",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2365,7 +2365,7 @@
         {
           "node_type": "item",
           "title": "基于 Frida 实现的 In-Memory Android API Fuzzer",
-          "description": null,
+          "description": "andreafioraldi/frida-fuzzer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2391,7 +2391,7 @@
         {
           "node_type": "item",
           "title": "lain - 微软这两天开源了一个 Rust 语言写的 Fuzz 框架",
-          "description": null,
+          "description": "microsoft/lain",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2412,7 +2412,7 @@
         {
           "node_type": "item",
           "title": "Fuzz中一个常见问题是Checksum或者Magic Value，以前的方法大多是通过符号执行的方法去求解约束，但这样的方法比较复杂。Red­queen这篇文章提出了一种更为简单的思路，即基于VMI来获取比较指令或者函数调用指令的参数，用这个参数来指导变异。具体实现依赖Intel PT。",
-          "description": null,
+          "description": "RUB-SysSec/redqueen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2433,7 +2433,7 @@
         {
           "node_type": "item",
           "title": "之前推过AFL-Unicorn项目可以让AFL fuzz能用Unicorn模拟的闭源binary，这个uniFuzzer项目很类似，是要把libfuzzer应用在闭源binary上",
-          "description": null,
+          "description": "PAGalaxyLab/uniFuzzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2454,7 +2454,7 @@
         {
           "node_type": "item",
           "title": "Fuzzing Browsers",
-          "description": null,
+          "description": "RootUp/BFuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2480,7 +2480,7 @@
         {
           "node_type": "item",
           "title": "用AFL-Unicorn来fuzz内核，集合了afl的覆盖率和unicorn的局部模拟执行",
-          "description": null,
+          "description": "fgsect/unicorefuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2501,7 +2501,7 @@
         {
           "node_type": "item",
           "title": "Fuzz 方向的几篇 Paper 的解读",
-          "description": null,
+          "description": "bsauce/Some-Papers-About-Fuzzing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2522,7 +2522,7 @@
         {
           "node_type": "item",
           "title": "gramfuzz - 通过定义语法规则生成 Fuzz 测试样本数据的工具",
-          "description": null,
+          "description": "d0c-s4vage/gramfuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2549,7 +2549,7 @@
         {
           "node_type": "item",
           "title": "wmliang/pe-afl",
-          "description": null,
+          "description": "wmliang/pe-afl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2570,7 +2570,7 @@
         {
           "node_type": "item",
           "title": "bin2415/fuzzing_paper",
-          "description": null,
+          "description": "bin2415/fuzzing_paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2591,7 +2591,7 @@
         {
           "node_type": "item",
           "title": "This module provides a Python wrapper for interacting with fuzzers, such as AFL",
-          "description": null,
+          "description": "angr/phuzzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2612,7 +2612,7 @@
         {
           "node_type": "item",
           "title": "波鸿鲁尔大学关于如何在二进制程序中对抗 Fuzz 自动化发现漏洞的研究",
-          "description": null,
+          "description": "RUB-SysSec/antifuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2633,7 +2633,7 @@
         {
           "node_type": "item",
           "title": "湾区一个关于Fuzzing的workshop的分享内容，三个议题涵盖了c/c++，web应用等不同目标的Fuzzing技巧",
-          "description": null,
+          "description": "MotherFuzzers/meetups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2654,7 +2654,7 @@
         {
           "node_type": "item",
           "title": "Adobe Font Development Kit for OpenType 套件相关的漏洞分析",
-          "description": null,
+          "description": "xinali/AfdkoFuzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2675,7 +2675,7 @@
         {
           "node_type": "item",
           "title": "Dhiraj Mishra 在 PHDays9 会议 AFL Fuzz Workshop 的 PPT",
-          "description": null,
+          "description": "RootUp/PHDays9",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2703,7 +2703,7 @@
         {
           "node_type": "item",
           "title": "用AFL Fuzz OP-TEE的系统调用",
-          "description": null,
+          "description": "Riscure/optee_fuzzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2730,7 +2730,7 @@
         {
           "node_type": "item",
           "title": "A collection of JavaScript engine CVEs with PoCs",
-          "description": null,
+          "description": "tunz/js-vuln-db",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2755,7 +2755,7 @@
         {
           "node_type": "item",
           "title": "An updated collection of resources targeting browser-exploitation.",
-          "description": null,
+          "description": "m1ghtym0/browser-pwn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2782,7 +2782,7 @@
         {
           "node_type": "item",
           "title": "All You Need to Know About Deep Learning - A kick-starter",
-          "description": null,
+          "description": "instillai/deep-learning-roadmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2806,7 +2806,7 @@
         {
           "node_type": "item",
           "title": "OnionScan is a free and open source tool for investigating the Dark Web.",
-          "description": null,
+          "description": "s-rah/onionscan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2833,7 +2833,7 @@
         {
           "node_type": "item",
           "title": "How-To-Secure-A-Linux-Server",
-          "description": null,
+          "description": "imthenachoman/How-To-Secure-A-Linux-Server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2846,7 +2846,7 @@
             "open_issues": 33,
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 31745,
+            "stars": 31748,
             "topics": [
               "cc-by-sa",
               "hardening",
@@ -2863,7 +2863,7 @@
         {
           "node_type": "item",
           "title": "drduh/macOS-Security-and-Privacy-Guide",
-          "description": null,
+          "description": "drduh/macOS-Security-and-Privacy-Guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2876,7 +2876,7 @@
             "open_issues": 5,
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22533,
+            "stars": 22535,
             "topics": [
               "apple",
               "checklist",
@@ -2902,7 +2902,7 @@
         {
           "node_type": "item",
           "title": "Vulnerability scanner for Linux/FreeBSD, agentless, written in Go",
-          "description": null,
+          "description": "future-architect/vuls",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2944,7 +2944,7 @@
         {
           "node_type": "item",
           "title": "trimstray/test-your-sysadmin-skills",
-          "description": null,
+          "description": "trimstray/test-your-sysadmin-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2986,7 +2986,7 @@
         {
           "node_type": "item",
           "title": "A practical guide to advanced Linux security in production environments",
-          "description": null,
+          "description": "trimstray/the-practical-linux-hardening-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3022,7 +3022,7 @@
         {
           "node_type": "item",
           "title": "API samples for the Universal Windows Platform.",
-          "description": null,
+          "description": "microsoft/Windows-universal-samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3043,7 +3043,7 @@
         {
           "node_type": "item",
           "title": "Windows memory hacking library",
-          "description": null,
+          "description": "DarthTon/Blackbone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3056,7 +3056,7 @@
             "open_issues": 109,
             "owner": "DarthTon",
             "repo": "Blackbone",
-            "stars": 5496,
+            "stars": 5497,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:06.304Z"
@@ -3064,7 +3064,7 @@
         {
           "node_type": "item",
           "title": "strozfriedberg/Windows-Exploit-Suggester",
-          "description": null,
+          "description": "strozfriedberg/Windows-Exploit-Suggester",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3085,7 +3085,7 @@
         {
           "node_type": "item",
           "title": "EasyHook/EasyHook",
-          "description": null,
+          "description": "EasyHook/EasyHook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3106,7 +3106,7 @@
         {
           "node_type": "item",
           "title": "zodiacon/WindowsInternals",
-          "description": null,
+          "description": "zodiacon/WindowsInternals",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3127,7 +3127,7 @@
         {
           "node_type": "item",
           "title": "j00ru/windows-syscalls",
-          "description": null,
+          "description": "j00ru/windows-syscalls",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3140,7 +3140,7 @@
             "open_issues": 3,
             "owner": "j00ru",
             "repo": "windows-syscalls",
-            "stars": 2650,
+            "stars": 2649,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:06.304Z"
@@ -3148,7 +3148,7 @@
         {
           "node_type": "item",
           "title": "Set of tools to analyze and attack Windows sandboxes.",
-          "description": null,
+          "description": "googleprojectzero/sandbox-attacksurface-analysis-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3169,7 +3169,7 @@
         {
           "node_type": "item",
           "title": "some learning notes about Linux Security",
-          "description": null,
+          "description": "JnuSimba/LinuxSecNotes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3190,7 +3190,7 @@
         {
           "node_type": "item",
           "title": "wstart/DB_BaseLine",
-          "description": null,
+          "description": "wstart/DB_BaseLine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3211,7 +3211,7 @@
         {
           "node_type": "item",
           "title": "Bypass Windows Exploit Guard ASR （PPT）",
-          "description": null,
+          "description": "sevagas/WindowsDefender_ASR_Bypass-OffensiveCon2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3238,7 +3238,7 @@
         {
           "node_type": "item",
           "title": "dvf/blockchain",
-          "description": null,
+          "description": "dvf/blockchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3265,7 +3265,7 @@
         {
           "node_type": "item",
           "title": "Knowledge Base 慢雾安全团队知识库",
-          "description": null,
+          "description": "slowmist/Knowledge-Base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3291,7 +3291,7 @@
         {
           "node_type": "item",
           "title": "liuchengxu/blockchain-tutorial",
-          "description": null,
+          "description": "liuchengxu/blockchain-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3318,7 +3318,7 @@
         {
           "node_type": "item",
           "title": "SlowMist Vulnerability Research Advisories",
-          "description": null,
+          "description": "slowmist/papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3344,7 +3344,7 @@
         {
           "node_type": "item",
           "title": "knownsec/Ethereum-Smart-Contracts-Security-CheckList",
-          "description": null,
+          "description": "knownsec/Ethereum-Smart-Contracts-Security-CheckList",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3371,7 +3371,7 @@
         {
           "node_type": "item",
           "title": "im23pds/BlockChain-Security-List",
-          "description": null,
+          "description": "im23pds/BlockChain-Security-List",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3392,7 +3392,7 @@
         {
           "node_type": "item",
           "title": "bcosorg/whitepaper",
-          "description": null,
+          "description": "bcosorg/whitepaper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3419,7 +3419,7 @@
         {
           "node_type": "item",
           "title": "OSDFCon19 会议关于 Linux 操作系统取证分析的议题 PPT",
-          "description": null,
+          "description": "ashemery/LinuxForensics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3446,7 +3446,7 @@
         {
           "node_type": "item",
           "title": "R2CON 2019 会议的议题 PPT 公开了",
-          "description": null,
+          "description": "radareorg/r2con2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3478,7 +3478,7 @@
             {
               "node_type": "item",
               "title": "arthepsy/ssh-audit",
-              "description": null,
+              "description": "arthepsy/ssh-audit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3499,7 +3499,7 @@
             {
               "node_type": "item",
               "title": "mozilla/ssh_scan",
-              "description": null,
+              "description": "mozilla/ssh_scan",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3523,7 +3523,7 @@
             {
               "node_type": "item",
               "title": "govolution/betterdefaultpasslist",
-              "description": null,
+              "description": "govolution/betterdefaultpasslist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3544,7 +3544,7 @@
             {
               "node_type": "item",
               "title": "ncsa/ssh-auditor",
-              "description": null,
+              "description": "ncsa/ssh-auditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3571,7 +3571,7 @@
             {
               "node_type": "item",
               "title": "mthbernardes/sshLooter",
-              "description": null,
+              "description": "mthbernardes/sshLooter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3592,7 +3592,7 @@
             {
               "node_type": "item",
               "title": "ropnop/windows_sshagent_extract",
-              "description": null,
+              "description": "ropnop/windows_sshagent_extract",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3613,7 +3613,7 @@
             {
               "node_type": "item",
               "title": "r3vn/punk.py",
-              "description": null,
+              "description": "r3vn/punk.py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3650,7 +3650,7 @@
             {
               "node_type": "item",
               "title": "Knock Subdomain Scan",
-              "description": null,
+              "description": "guelfoweb/knockpy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3679,7 +3679,7 @@
             {
               "node_type": "item",
               "title": "A DNS rebinding attack framework.",
-              "description": null,
+              "description": "nccgroup/singularity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3706,7 +3706,7 @@
             {
               "node_type": "item",
               "title": "iphelix/dnschef",
-              "description": null,
+              "description": "iphelix/dnschef",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3734,7 +3734,7 @@
             {
               "node_type": "item",
               "title": "windows-kernel-exploits Windows平台提权漏洞集合",
-              "description": null,
+              "description": "SecWiki/windows-kernel-exploits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3762,7 +3762,7 @@
             {
               "node_type": "item",
               "title": "offensive-security/exploitdb",
-              "description": null,
+              "description": "offensive-security/exploitdb",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3783,7 +3783,7 @@
             {
               "node_type": "item",
               "title": "SecWiki/linux-kernel-exploits",
-              "description": null,
+              "description": "SecWiki/linux-kernel-exploits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3812,7 +3812,7 @@
             {
               "node_type": "item",
               "title": "Automated Mass Exploiter",
-              "description": null,
+              "description": "NullArray/AutoSploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3842,7 +3842,7 @@
             {
               "node_type": "item",
               "title": "rootm0s/WinPwnage",
-              "description": null,
+              "description": "rootm0s/WinPwnage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3863,7 +3863,7 @@
             {
               "node_type": "item",
               "title": "MS17-010",
-              "description": null,
+              "description": "worawit/MS17-010",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3884,7 +3884,7 @@
             {
               "node_type": "item",
               "title": "lukechilds/reverse-shell",
-              "description": null,
+              "description": "lukechilds/reverse-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3912,7 +3912,7 @@
             {
               "node_type": "item",
               "title": "A bunch of links related to VMware escape exploits",
-              "description": null,
+              "description": "xairy/vmware-exploitation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3925,7 +3925,7 @@
                 "open_issues": 0,
                 "owner": "xairy",
                 "repo": "vmware-exploitation",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": [
                   "vmware-exploitation"
                 ]
@@ -3935,7 +3935,7 @@
             {
               "node_type": "item",
               "title": "Windows Exploits",
-              "description": null,
+              "description": "WindowsExploits/Exploits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3956,7 +3956,7 @@
             {
               "node_type": "item",
               "title": "A Course on Intermediate Level Linux Exploitation",
-              "description": null,
+              "description": "nnamon/linux-exploitation-course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3977,7 +3977,7 @@
             {
               "node_type": "item",
               "title": "Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.",
-              "description": null,
+              "description": "Coalfire-Research/Red-Baron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4005,7 +4005,7 @@
             {
               "node_type": "item",
               "title": "smgorelik/Windows-RCE-exploits",
-              "description": null,
+              "description": "smgorelik/Windows-RCE-exploits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4026,7 +4026,7 @@
             {
               "node_type": "item",
               "title": "Coalfire-Research/java-deserialization-exploits",
-              "description": null,
+              "description": "Coalfire-Research/java-deserialization-exploits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4052,7 +4052,7 @@
             {
               "node_type": "item",
               "title": "hardenedlinux/linux-exploit-development-tutorial",
-              "description": null,
+              "description": "hardenedlinux/linux-exploit-development-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4077,7 +4077,7 @@
             {
               "node_type": "item",
               "title": "51x/WHP",
-              "description": null,
+              "description": "51x/WHP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4098,7 +4098,7 @@
             {
               "node_type": "item",
               "title": "klsfct/getshell",
-              "description": null,
+              "description": "klsfct/getshell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4119,7 +4119,7 @@
             {
               "node_type": "item",
               "title": "Semmle/SecurityExploits",
-              "description": null,
+              "description": "Semmle/SecurityExploits",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4152,7 +4152,7 @@
             {
               "node_type": "item",
               "title": "jivoi/awesome-osint",
-              "description": null,
+              "description": "jivoi/awesome-osint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4162,10 +4162,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29867,
+                "stars": 29877,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -4177,7 +4177,7 @@
             {
               "node_type": "item",
               "title": "Incredibly fast crawler designed for OSINT.",
-              "description": null,
+              "description": "s0md3v/Photon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4204,7 +4204,7 @@
             {
               "node_type": "item",
               "title": "OSINT Framework",
-              "description": null,
+              "description": "lockfale/OSINT-Framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4214,10 +4214,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T01:26:43Z",
-                "open_issues": 97,
+                "open_issues": 99,
                 "owner": "lockfale",
                 "repo": "OSINT-Framework",
-                "stars": 12222,
+                "stars": 12227,
                 "topics": [
                   "footprinting",
                   "intelligence-gathering",
@@ -4232,7 +4232,7 @@
             {
               "node_type": "item",
               "title": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
-              "description": null,
+              "description": "jofpin/trape",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4266,7 +4266,7 @@
             {
               "node_type": "item",
               "title": "Email OSINT and password breach hunting.",
-              "description": null,
+              "description": "khast3x/h8mail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4279,7 +4279,7 @@
                 "open_issues": 39,
                 "owner": "khast3x",
                 "repo": "h8mail",
-                "stars": 5324,
+                "stars": 5325,
                 "topics": [
                   "breach",
                   "breach-compilation",
@@ -4300,7 +4300,7 @@
             {
               "node_type": "item",
               "title": "Moham3dRiahi/Th3inspector",
-              "description": null,
+              "description": "Moham3dRiahi/Th3inspector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4342,7 +4342,7 @@
             {
               "node_type": "item",
               "title": "Maintained collection of OSINT related resources. (All Free & Actionable)",
-              "description": null,
+              "description": "Ph055a/OSINT_Collection",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4355,7 +4355,7 @@
                 "open_issues": 24,
                 "owner": "Ph055a",
                 "repo": "OSINT_Collection",
-                "stars": 2414,
+                "stars": 2413,
                 "topics": [
                   "court-search",
                   "data-science",
@@ -4380,7 +4380,7 @@
             {
               "node_type": "item",
               "title": "LandGrey/pydictor",
-              "description": null,
+              "description": "LandGrey/pydictor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4415,7 +4415,7 @@
             {
               "node_type": "item",
               "title": "brannondorsey/PassGAN",
-              "description": null,
+              "description": "brannondorsey/PassGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4443,7 +4443,7 @@
             {
               "node_type": "item",
               "title": "RicterZ/genpAss",
-              "description": null,
+              "description": "RicterZ/genpAss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4464,7 +4464,7 @@
             {
               "node_type": "item",
               "title": "bit4woo/passmaker",
-              "description": null,
+              "description": "bit4woo/passmaker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4491,7 +4491,7 @@
             {
               "node_type": "item",
               "title": "lavalamp-/password-lists",
-              "description": null,
+              "description": "lavalamp-/password-lists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4519,7 +4519,7 @@
             {
               "node_type": "item",
               "title": "Searches through git repositories for high entropy strings and secrets, digging deep into commit history",
-              "description": null,
+              "description": "trufflesecurity/trufflehog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4528,11 +4528,11 @@
                 "id": 77726177,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T14:15:16Z",
-                "open_issues": 558,
+                "last_commit": "2026-10-02T19:23:42Z",
+                "open_issues": 559,
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 28239,
+                "stars": 28248,
                 "topics": [
                   "credentials",
                   "devsecops",
@@ -4553,7 +4553,7 @@
             {
               "node_type": "item",
               "title": "Reconnaissance tool for GitHub organizations",
-              "description": null,
+              "description": "michenriksen/gitrob",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4579,7 +4579,7 @@
             {
               "node_type": "item",
               "title": "GitHub Sensitive Information Leakage",
-              "description": null,
+              "description": "FeeiCN/GSIL",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4605,7 +4605,7 @@
             {
               "node_type": "item",
               "title": "GitHub Sensitive Information Leakage Monitor Spider",
-              "description": null,
+              "description": "0xbug/Hawkeye",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4637,7 +4637,7 @@
             {
               "node_type": "item",
               "title": "1N3/IntruderPayloads",
-              "description": null,
+              "description": "1N3/IntruderPayloads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4671,7 +4671,7 @@
             {
               "node_type": "item",
               "title": "vulnersCom/burp-vulners-scanner",
-              "description": null,
+              "description": "vulnersCom/burp-vulners-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4699,7 +4699,7 @@
             {
               "node_type": "item",
               "title": "Exploitation Framework for Embedded Devices",
-              "description": null,
+              "description": "threat9/routersploit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4712,7 +4712,7 @@
                 "open_issues": 98,
                 "owner": "threat9",
                 "repo": "routersploit",
-                "stars": 13258,
+                "stars": 13257,
                 "topics": [
                   "bruteforce",
                   "creds",
@@ -4734,7 +4734,7 @@
             {
               "node_type": "item",
               "title": "jaredthecoder/awesome-vehicle-security",
-              "description": null,
+              "description": "jaredthecoder/awesome-vehicle-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4747,7 +4747,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4679,
+                "stars": 4681,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -4768,7 +4768,7 @@
             {
               "node_type": "item",
               "title": "Printer Exploitation Toolkit",
-              "description": null,
+              "description": "RUB-NDS/PRET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4781,7 +4781,7 @@
                 "open_issues": 73,
                 "owner": "RUB-NDS",
                 "repo": "PRET",
-                "stars": 4312,
+                "stars": 4311,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -4789,7 +4789,7 @@
             {
               "node_type": "item",
               "title": "V33RU/awesome-connected-things-sec",
-              "description": null,
+              "description": "V33RU/awesome-connected-things-sec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4802,7 +4802,7 @@
                 "open_issues": 3,
                 "owner": "V33RU",
                 "repo": "awesome-connected-things-sec",
-                "stars": 3552,
+                "stars": 3551,
                 "topics": [
                   "automotive-security",
                   "awesome",
@@ -4826,7 +4826,7 @@
             {
               "node_type": "item",
               "title": "嵌入式与 IoT 安全方向的资料",
-              "description": null,
+              "description": "fkie-cad/awesome-embedded-and-iot-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4839,7 +4839,7 @@
                 "open_issues": 1,
                 "owner": "fkie-cad",
                 "repo": "awesome-embedded-and-iot-security",
-                "stars": 2459,
+                "stars": 2460,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4854,7 +4854,7 @@
             {
               "node_type": "item",
               "title": "w3h/icsmaster",
-              "description": null,
+              "description": "w3h/icsmaster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4883,7 +4883,7 @@
             {
               "node_type": "item",
               "title": "jiayy/android_vuln_poc-exp",
-              "description": null,
+              "description": "jiayy/android_vuln_poc-exp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4904,7 +4904,7 @@
             {
               "node_type": "item",
               "title": "schutzwerk/CANalyzat0r",
-              "description": null,
+              "description": "schutzwerk/CANalyzat0r",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4917,7 +4917,7 @@
                 "open_issues": 3,
                 "owner": "schutzwerk",
                 "repo": "CANalyzat0r",
-                "stars": 794,
+                "stars": 795,
                 "topics": [
                   "automotive-security",
                   "carhacking",
@@ -4929,7 +4929,7 @@
             {
               "node_type": "item",
               "title": "mrmtwoj/0day-mikrotik",
-              "description": null,
+              "description": "mrmtwoj/0day-mikrotik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4952,7 +4952,7 @@
             {
               "node_type": "item",
               "title": "xl7dev/ICSecurity",
-              "description": null,
+              "description": "xl7dev/ICSecurity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4973,7 +4973,7 @@
             {
               "node_type": "item",
               "title": "SecarmaLabs/IoTChecklist",
-              "description": null,
+              "description": "SecarmaLabs/IoTChecklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5001,7 +5001,7 @@
             {
               "node_type": "item",
               "title": "Malicious traffic detection system",
-              "description": null,
+              "description": "stamparm/maltrail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5010,7 +5010,7 @@
                 "id": 27561102,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:25:25Z",
+                "last_commit": "2026-10-02T20:43:22Z",
                 "open_issues": 37,
                 "owner": "stamparm",
                 "repo": "maltrail",
@@ -5038,7 +5038,7 @@
             {
               "node_type": "item",
               "title": "paralax/awesome-honeypots",
-              "description": null,
+              "description": "paralax/awesome-honeypots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5048,10 +5048,10 @@
                 "language": "Python",
                 "license": "Artistic-2.0",
                 "last_commit": "2026-06-01T14:15:45Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10576,
+                "stars": 10579,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5065,7 +5065,7 @@
             {
               "node_type": "item",
               "title": "ysrc/yulong-hids-archived",
-              "description": null,
+              "description": "ysrc/yulong-hids-archived",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5089,7 +5089,7 @@
             {
               "node_type": "item",
               "title": "Kippo - SSH Honeypot",
-              "description": null,
+              "description": "desaster/kippo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5110,7 +5110,7 @@
             {
               "node_type": "item",
               "title": "ppacher/honeyssh",
-              "description": null,
+              "description": "ppacher/honeyssh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5138,7 +5138,7 @@
             {
               "node_type": "item",
               "title": "Modlishka. Reverse Proxy. Phishing NG.",
-              "description": null,
+              "description": "drk1wi/Modlishka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5166,7 +5166,7 @@
             {
               "node_type": "item",
               "title": "SpiderLabs/Responder",
-              "description": null,
+              "description": "SpiderLabs/Responder",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5187,7 +5187,7 @@
             {
               "node_type": "item",
               "title": "OTRF/ThreatHunter-Playbook",
-              "description": null,
+              "description": "OTRF/ThreatHunter-Playbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5200,7 +5200,7 @@
                 "open_issues": 6,
                 "owner": "OTRF",
                 "repo": "ThreatHunter-Playbook",
-                "stars": 4681,
+                "stars": 4680,
                 "topics": [
                   "dfir",
                   "hunter",
@@ -5218,7 +5218,7 @@
             {
               "node_type": "item",
               "title": "APT & CyberCriminal Campaign Collection",
-              "description": null,
+              "description": "CyberMonitor/APT_CyberCriminal_Campagin_Collections",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5241,7 +5241,7 @@
             {
               "node_type": "item",
               "title": "The Hunting ELK",
-              "description": null,
+              "description": "Cyb3rWard0g/HELK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5276,7 +5276,7 @@
             {
               "node_type": "item",
               "title": "kbandla/APTnotes",
-              "description": null,
+              "description": "kbandla/APTnotes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5297,7 +5297,7 @@
             {
               "node_type": "item",
               "title": "dafthack/MailSniper",
-              "description": null,
+              "description": "dafthack/MailSniper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5318,7 +5318,7 @@
             {
               "node_type": "item",
               "title": "A toolset to make a system look as if it was the victim of an APT attack",
-              "description": null,
+              "description": "NextronSystems/APTSimulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5339,7 +5339,7 @@
             {
               "node_type": "item",
               "title": "An informational repo about hunting for adversaries in your IT environment.",
-              "description": null,
+              "description": "ThreatHuntingProject/ThreatHunting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5360,7 +5360,7 @@
             {
               "node_type": "item",
               "title": "aptnotes/data",
-              "description": null,
+              "description": "aptnotes/data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5385,7 +5385,7 @@
             {
               "node_type": "item",
               "title": "threatexpress/domainhunter",
-              "description": null,
+              "description": "threatexpress/domainhunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5406,7 +5406,7 @@
             {
               "node_type": "item",
               "title": "A3sal0n/CyberThreatHunting",
-              "description": null,
+              "description": "A3sal0n/CyberThreatHunting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5433,7 +5433,7 @@
             {
               "node_type": "item",
               "title": "Tencent/HaboMalHunter",
-              "description": null,
+              "description": "Tencent/HaboMalHunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5461,7 +5461,7 @@
             {
               "node_type": "item",
               "title": "bit4woo/domain_hunter",
-              "description": null,
+              "description": "bit4woo/domain_hunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5501,7 +5501,7 @@
             {
               "node_type": "item",
               "title": "sapphirex00/Threat-Hunting",
-              "description": null,
+              "description": "sapphirex00/Threat-Hunting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5533,7 +5533,7 @@
             {
               "node_type": "item",
               "title": "mvelazc0/Oriana",
-              "description": null,
+              "description": "mvelazc0/Oriana",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5565,7 +5565,7 @@
             {
               "node_type": "item",
               "title": "Web path scanner",
-              "description": null,
+              "description": "maurosoria/dirsearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5574,11 +5574,11 @@
                 "id": 9774482,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-01T01:25:40Z",
+                "last_commit": "2026-10-03T03:57:39Z",
                 "open_issues": 19,
                 "owner": "maurosoria",
                 "repo": "dirsearch",
-                "stars": 14903,
+                "stars": 14914,
                 "topics": [
                   "appsec",
                   "brute",
@@ -5607,7 +5607,7 @@
             {
               "node_type": "item",
               "title": "Automated pentest framework for offensive security experts",
-              "description": null,
+              "description": "1N3/Sn1per",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5620,7 +5620,7 @@
                 "open_issues": 8,
                 "owner": "1N3",
                 "repo": "Sn1per",
-                "stars": 11291,
+                "stars": 11292,
                 "topics": [
                   "attack-surface",
                   "attack-surface-management",
@@ -5648,7 +5648,7 @@
             {
               "node_type": "item",
               "title": "Next generation web scanner",
-              "description": null,
+              "description": "urbanadventurer/WhatWeb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5661,7 +5661,7 @@
                 "open_issues": 51,
                 "owner": "urbanadventurer",
                 "repo": "WhatWeb",
-                "stars": 6868,
+                "stars": 6869,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -5690,7 +5690,7 @@
             {
               "node_type": "item",
               "title": "OpenVAS remote network security scanner",
-              "description": null,
+              "description": "greenbone/openvas-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5727,7 +5727,7 @@
             {
               "node_type": "item",
               "title": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
-              "description": null,
+              "description": "evyatarmeged/Raccoon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5764,7 +5764,7 @@
             {
               "node_type": "item",
               "title": "Web Application Security Scanner Framework",
-              "description": null,
+              "description": "Arachni/arachni",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5777,7 +5777,7 @@
                 "open_issues": 131,
                 "owner": "Arachni",
                 "repo": "arachni",
-                "stars": 4039,
+                "stars": 4038,
                 "topics": [
                   "analysis",
                   "arachni",
@@ -5805,7 +5805,7 @@
             {
               "node_type": "item",
               "title": "Fast and powerful SSL/TLS server scanning library.",
-              "description": null,
+              "description": "nabla-c0d3/sslyze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5838,7 +5838,7 @@
             {
               "node_type": "item",
               "title": "ysrc/xunfeng",
-              "description": null,
+              "description": "ysrc/xunfeng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5869,7 +5869,7 @@
             {
               "node_type": "item",
               "title": "joaomatosf/jexboss",
-              "description": null,
+              "description": "joaomatosf/jexboss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5897,7 +5897,7 @@
             {
               "node_type": "item",
               "title": "分布式web漏洞扫描",
-              "description": null,
+              "description": "TideSec/WDScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5918,7 +5918,7 @@
             {
               "node_type": "item",
               "title": "Docker security analysis & hacking tools",
-              "description": null,
+              "description": "cr0hn/dockerscan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5946,7 +5946,7 @@
             {
               "node_type": "item",
               "title": "Golang编写的开源POC检测框架",
-              "description": null,
+              "description": "opensec-cn/kunpeng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5972,7 +5972,7 @@
             {
               "node_type": "item",
               "title": "AIL framework - Analysis Information Leak framework",
-              "description": null,
+              "description": "CIRCL/AIL-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6003,7 +6003,7 @@
             {
               "node_type": "item",
               "title": "Network Security Vulnerability Scanner",
-              "description": null,
+              "description": "jeffzh3ng/fuxi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6029,7 +6029,7 @@
             {
               "node_type": "item",
               "title": "Fast CORS misconfiguration vulnerabilities scanner",
-              "description": null,
+              "description": "chenjj/CORScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6059,7 +6059,7 @@
             {
               "node_type": "item",
               "title": "Perun是一款主要适用于乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架",
-              "description": null,
+              "description": "WyAtu/Perun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6088,7 +6088,7 @@
             {
               "node_type": "item",
               "title": "A fast and modular scanner for Tor exit relays.",
-              "description": null,
+              "description": "NullHypothesis/exitmap",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6115,7 +6115,7 @@
             {
               "node_type": "item",
               "title": "Web App Monitor",
-              "description": null,
+              "description": "knownsec/wam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6139,7 +6139,7 @@
             {
               "node_type": "item",
               "title": "Use ExpiredDomains.net and BlueCoat to find useful domains for red team.",
-              "description": null,
+              "description": "t94j0/AIRMASTER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6167,7 +6167,7 @@
             {
               "node_type": "item",
               "title": "Weak password blasting of weak ports and integrated detection tools for unauthorized access.",
-              "description": null,
+              "description": "aedoo/Allscanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6195,7 +6195,7 @@
             {
               "node_type": "item",
               "title": "wifiphisher/wifiphisher",
-              "description": null,
+              "description": "wifiphisher/wifiphisher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6227,7 +6227,7 @@
             {
               "node_type": "item",
               "title": "ryhanson/phishery",
-              "description": null,
+              "description": "ryhanson/phishery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6248,7 +6248,7 @@
             {
               "node_type": "item",
               "title": "Ruby on Rails Phishing Framework",
-              "description": null,
+              "description": "pentestgeek/phishing-frenzy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6278,7 +6278,7 @@
             {
               "node_type": "item",
               "title": "Swordphish Phishing Awareness Tool",
-              "description": null,
+              "description": "societe-generale/swordphish-awareness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6299,7 +6299,7 @@
             {
               "node_type": "item",
               "title": "vishnudxb/docker-blackeye",
-              "description": null,
+              "description": "vishnudxb/docker-blackeye",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6327,7 +6327,7 @@
             {
               "node_type": "item",
               "title": "jgamblin/Mirai-Source-Code",
-              "description": null,
+              "description": "jgamblin/Mirai-Source-Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6340,7 +6340,7 @@
                 "open_issues": 1,
                 "owner": "jgamblin",
                 "repo": "Mirai-Source-Code",
-                "stars": 9519,
+                "stars": 9523,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -6348,7 +6348,7 @@
             {
               "node_type": "item",
               "title": "(Windows, Linux, OSX, Android) remote administration and post-exploitation tool",
-              "description": null,
+              "description": "n1nj4sec/pupy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6387,7 +6387,7 @@
             {
               "node_type": "item",
               "title": "Android Remote Administration Tool",
-              "description": null,
+              "description": "AhMyth/AhMyth-Android-RAT",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6414,7 +6414,7 @@
             {
               "node_type": "item",
               "title": "Python Remote Administration Tool (RAT)",
-              "description": null,
+              "description": "nathanlopez/Stitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6427,7 +6427,7 @@
                 "open_issues": 59,
                 "owner": "nathanlopez",
                 "repo": "Stitch",
-                "stars": 3687,
+                "stars": 3686,
                 "topics": [
                   "cross-platform",
                   "keylogger",
@@ -6446,7 +6446,7 @@
             {
               "node_type": "item",
               "title": "secretsquirrel/the-backdoor-factory",
-              "description": null,
+              "description": "secretsquirrel/the-backdoor-factory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6475,7 +6475,7 @@
             {
               "node_type": "item",
               "title": "Hardware backdoors in some x86 CPUs",
-              "description": null,
+              "description": "xoreaxeaxeax/rosenbridge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6496,7 +6496,7 @@
             {
               "node_type": "item",
               "title": "iOS/macOS/Linux Remote Administration Tool",
-              "description": null,
+              "description": "lucasjacks0n/EggShell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6529,7 +6529,7 @@
             {
               "node_type": "item",
               "title": "sin5678/gh0st",
-              "description": null,
+              "description": "sin5678/gh0st",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6557,7 +6557,7 @@
             {
               "node_type": "item",
               "title": "berzerk0/Probable-Wordlists",
-              "description": null,
+              "description": "berzerk0/Probable-Wordlists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6570,7 +6570,7 @@
                 "open_issues": 21,
                 "owner": "berzerk0",
                 "repo": "Probable-Wordlists",
-                "stars": 9361,
+                "stars": 9362,
                 "topics": [
                   "dictionary",
                   "dictionary-attack",
@@ -6585,7 +6585,7 @@
             {
               "node_type": "item",
               "title": "We5ter/Scanners-Box",
-              "description": null,
+              "description": "We5ter/Scanners-Box",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6627,7 +6627,7 @@
             {
               "node_type": "item",
               "title": "jeanphorn/wordlist",
-              "description": null,
+              "description": "jeanphorn/wordlist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6640,7 +6640,7 @@
                 "open_issues": 2,
                 "owner": "jeanphorn",
                 "repo": "wordlist",
-                "stars": 1824,
+                "stars": 1826,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -6655,7 +6655,7 @@
             {
               "node_type": "item",
               "title": "fate0/proxylist",
-              "description": null,
+              "description": "fate0/proxylist",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6682,7 +6682,7 @@
             {
               "node_type": "item",
               "title": "stamparm/fetch-some-proxies",
-              "description": null,
+              "description": "stamparm/fetch-some-proxies",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6707,7 +6707,7 @@
             {
               "node_type": "item",
               "title": "realgam3/pymultitor",
-              "description": null,
+              "description": "realgam3/pymultitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6735,7 +6735,7 @@
             {
               "node_type": "item",
               "title": "MobSF/Mobile-Security-Framework-MobSF",
-              "description": null,
+              "description": "MobSF/Mobile-Security-Framework-MobSF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6748,7 +6748,7 @@
                 "open_issues": 13,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21866,
+                "stars": 21869,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -6776,7 +6776,7 @@
             {
               "node_type": "item",
               "title": "PowerShellMafia/PowerSploit",
-              "description": null,
+              "description": "PowerShellMafia/PowerSploit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6789,7 +6789,7 @@
                 "open_issues": 102,
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13077,
+                "stars": 13076,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -6797,7 +6797,7 @@
             {
               "node_type": "item",
               "title": "beefproject/beef",
-              "description": null,
+              "description": "beefproject/beef",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6810,7 +6810,7 @@
                 "open_issues": 37,
                 "owner": "beefproject",
                 "repo": "beef",
-                "stars": 11041,
+                "stars": 11040,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -6818,7 +6818,7 @@
             {
               "node_type": "item",
               "title": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
-              "description": null,
+              "description": "toniblyx/my-arsenal-of-aws-security-tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6827,8 +6827,8 @@
                 "id": 141482866,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-07T14:45:14Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-02T20:21:00Z",
+                "open_issues": 11,
                 "owner": "toniblyx",
                 "repo": "my-arsenal-of-aws-security-tools",
                 "stars": 9514,
@@ -6851,7 +6851,7 @@
             {
               "node_type": "item",
               "title": "meirwah/awesome-incident-response",
-              "description": null,
+              "description": "meirwah/awesome-incident-response",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6864,7 +6864,7 @@
                 "open_issues": 88,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9426,
+                "stars": 9427,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -6881,7 +6881,7 @@
             {
               "node_type": "item",
               "title": "An advanced memory forensics framework",
-              "description": null,
+              "description": "volatilityfoundation/volatility",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6908,7 +6908,7 @@
             {
               "node_type": "item",
               "title": "EmpireProject/Empire",
-              "description": null,
+              "description": "EmpireProject/Empire",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6929,7 +6929,7 @@
             {
               "node_type": "item",
               "title": "A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications",
-              "description": null,
+              "description": "python-security/pyt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6968,7 +6968,7 @@
             {
               "node_type": "item",
               "title": "threatexpress/malleable-c2",
-              "description": null,
+              "description": "threatexpress/malleable-c2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6989,7 +6989,7 @@
             {
               "node_type": "item",
               "title": "rsmudge/Malleable-C2-Profiles",
-              "description": null,
+              "description": "rsmudge/Malleable-C2-Profiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7010,7 +7010,7 @@
             {
               "node_type": "item",
               "title": "byt3bl33d3r/SprayingToolkit",
-              "description": null,
+              "description": "byt3bl33d3r/SprayingToolkit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7043,7 +7043,7 @@
             {
               "node_type": "item",
               "title": "Find open databases with Shodan",
-              "description": null,
+              "description": "woj-ciech/LeakLooker",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7064,7 +7064,7 @@
             {
               "node_type": "item",
               "title": "BugScanTeam/DNSLog",
-              "description": null,
+              "description": "BugScanTeam/DNSLog",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7085,7 +7085,7 @@
             {
               "node_type": "item",
               "title": "nshalabi/ATTACK-Tools",
-              "description": null,
+              "description": "nshalabi/ATTACK-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7112,7 +7112,7 @@
             {
               "node_type": "item",
               "title": "Open-Source Security Architecture",
-              "description": null,
+              "description": "bloodzer0/ossa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7146,7 +7146,7 @@
             {
               "node_type": "item",
               "title": "PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform",
-              "description": null,
+              "description": "Patrowl/PatrowlManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7186,7 +7186,7 @@
             {
               "node_type": "item",
               "title": "luyg24/IT_security",
-              "description": null,
+              "description": "luyg24/IT_security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7207,7 +7207,7 @@
             {
               "node_type": "item",
               "title": "Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.",
-              "description": null,
+              "description": "nullsecuritynet/tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7228,7 +7228,7 @@
             {
               "node_type": "item",
               "title": "Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.",
-              "description": null,
+              "description": "nullsecuritynet/tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7249,7 +7249,7 @@
             {
               "node_type": "item",
               "title": "Truneski/external_c2_framework",
-              "description": null,
+              "description": "Truneski/external_c2_framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7283,7 +7283,7 @@
             {
               "node_type": "item",
               "title": "OWASP/CheatSheetSeries",
-              "description": null,
+              "description": "OWASP/CheatSheetSeries",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7292,11 +7292,11 @@
                 "id": 162723104,
                 "language": "JavaScript",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-02T16:00:13Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-03T04:54:09Z",
+                "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "CheatSheetSeries",
-                "stars": 33381,
+                "stars": 33392,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -7312,7 +7312,7 @@
             {
               "node_type": "item",
               "title": "enjoiz/XXEinjector",
-              "description": null,
+              "description": "enjoiz/XXEinjector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7333,7 +7333,7 @@
             {
               "node_type": "item",
               "title": "BuffaloWill/oxml_xxe",
-              "description": null,
+              "description": "BuffaloWill/oxml_xxe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7361,7 +7361,7 @@
             {
               "node_type": "item",
               "title": "swisskyrepo/SSRFmap",
-              "description": null,
+              "description": "swisskyrepo/SSRFmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7391,7 +7391,7 @@
             {
               "node_type": "item",
               "title": "tarunkant/Gopherus",
-              "description": null,
+              "description": "tarunkant/Gopherus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7424,7 +7424,7 @@
             {
               "node_type": "item",
               "title": "cujanovic/SSRF-Testing",
-              "description": null,
+              "description": "cujanovic/SSRF-Testing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7451,7 +7451,7 @@
             {
               "node_type": "item",
               "title": "bcoles/ssrf_proxy",
-              "description": null,
+              "description": "bcoles/ssrf_proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7477,7 +7477,7 @@
             {
               "node_type": "item",
               "title": "samhaxr/XXRF-Shots",
-              "description": null,
+              "description": "samhaxr/XXRF-Shots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7498,7 +7498,7 @@
             {
               "node_type": "item",
               "title": "dreadlocked/SSRFmap",
-              "description": null,
+              "description": "dreadlocked/SSRFmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7525,7 +7525,7 @@
             {
               "node_type": "item",
               "title": "jayeshchauhan/SKANDA",
-              "description": null,
+              "description": "jayeshchauhan/SKANDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7553,7 +7553,7 @@
             {
               "node_type": "item",
               "title": "s0md3v/XSStrike",
-              "description": null,
+              "description": "s0md3v/XSStrike",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7566,7 +7566,7 @@
                 "open_issues": 96,
                 "owner": "s0md3v",
                 "repo": "XSStrike",
-                "stars": 15206,
+                "stars": 15209,
                 "topics": [
                   "waf-detection",
                   "xss",
@@ -7583,7 +7583,7 @@
             {
               "node_type": "item",
               "title": "evilcos/xssor2",
-              "description": null,
+              "description": "evilcos/xssor2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7613,7 +7613,7 @@
             {
               "node_type": "item",
               "title": "浏览器 XSS Filter 绕过速查表",
-              "description": null,
+              "description": "masatokinugawa/filterbypass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7639,7 +7639,7 @@
             {
               "node_type": "item",
               "title": "Browser's XSS Filter Bypass Cheat Sheet",
-              "description": null,
+              "description": "masatokinugawa/filterbypass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7672,7 +7672,7 @@
             {
               "node_type": "item",
               "title": "vulhub/vulhub",
-              "description": null,
+              "description": "vulhub/vulhub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7685,7 +7685,7 @@
                 "open_issues": 53,
                 "owner": "vulhub",
                 "repo": "vulhub",
-                "stars": 21310,
+                "stars": 21311,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -7699,7 +7699,7 @@
             {
               "node_type": "item",
               "title": "Medicean/VulApps",
-              "description": null,
+              "description": "Medicean/VulApps",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7726,7 +7726,7 @@
             {
               "node_type": "item",
               "title": "s4n7h0/xvwa",
-              "description": null,
+              "description": "s4n7h0/xvwa",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7755,7 +7755,7 @@
             {
               "node_type": "item",
               "title": "payatu/diva-android",
-              "description": null,
+              "description": "payatu/diva-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7768,7 +7768,7 @@
                 "open_issues": 13,
                 "owner": "payatu",
                 "repo": "diva-android",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -7776,7 +7776,7 @@
             {
               "node_type": "item",
               "title": "snoopysecurity/dvws",
-              "description": null,
+              "description": "snoopysecurity/dvws",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7797,7 +7797,7 @@
             {
               "node_type": "item",
               "title": "MyKings/docker-vulnerability-environment",
-              "description": null,
+              "description": "MyKings/docker-vulnerability-environment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7821,7 +7821,7 @@
             {
               "node_type": "item",
               "title": "davevs/dvxte",
-              "description": null,
+              "description": "davevs/dvxte",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7853,7 +7853,7 @@
             {
               "node_type": "item",
               "title": "Hacker0x01/hacker101",
-              "description": null,
+              "description": "Hacker0x01/hacker101",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7866,7 +7866,7 @@
                 "open_issues": 3,
                 "owner": "Hacker0x01",
                 "repo": "hacker101",
-                "stars": 14559,
+                "stars": 14561,
                 "topics": [
                   "clickjacking",
                   "csrf",
@@ -7889,7 +7889,7 @@
             {
               "node_type": "item",
               "title": "ctf-wiki/ctf-wiki",
-              "description": null,
+              "description": "ctf-wiki/ctf-wiki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7919,7 +7919,7 @@
             {
               "node_type": "item",
               "title": "A list of interesting payloads, tips and tricks for bug bounty hunters.",
-              "description": null,
+              "description": "EdOverflow/bugbounty-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7932,7 +7932,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6554,
+                "stars": 6553,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -7945,7 +7945,7 @@
             {
               "node_type": "item",
               "title": "SecWiki/sec-chart",
-              "description": null,
+              "description": "SecWiki/sec-chart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7966,7 +7966,7 @@
             {
               "node_type": "item",
               "title": "OWASP/Top10",
-              "description": null,
+              "description": "OWASP/Top10",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7979,7 +7979,7 @@
                 "open_issues": 57,
                 "owner": "OWASP",
                 "repo": "Top10",
-                "stars": 6195,
+                "stars": 6198,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -7987,7 +7987,7 @@
             {
               "node_type": "item",
               "title": "trustedsec/ptf",
-              "description": null,
+              "description": "trustedsec/ptf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8000,7 +8000,7 @@
                 "open_issues": 9,
                 "owner": "trustedsec",
                 "repo": "ptf",
-                "stars": 5574,
+                "stars": 5576,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:06.304Z"
@@ -8008,7 +8008,7 @@
             {
               "node_type": "item",
               "title": "各种安全相关思维导图整理收集",
-              "description": null,
+              "description": "phith0n/Mind-Map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8029,7 +8029,7 @@
             {
               "node_type": "item",
               "title": "NSE script based on Vulners.com API",
-              "description": null,
+              "description": "vulnersCom/nmap-vulners",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8069,7 +8069,7 @@
             {
               "node_type": "item",
               "title": "evilcos/papers",
-              "description": null,
+              "description": "evilcos/papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8090,7 +8090,7 @@
             {
               "node_type": "item",
               "title": "1000个PHP代码审计案例(2016.7以前乌云公开漏洞)",
-              "description": null,
+              "description": "Xyntax/1000php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8111,7 +8111,7 @@
             {
               "node_type": "item",
               "title": "some learning notes about Web/Cloud/Docker Security、 Penetration Test、 Security Building",
-              "description": null,
+              "description": "JnuSimba/MiscSecNotes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8132,7 +8132,7 @@
             {
               "node_type": "item",
               "title": "SuperKieran/WooyunDrops",
-              "description": null,
+              "description": "SuperKieran/WooyunDrops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8159,7 +8159,7 @@
             {
               "node_type": "item",
               "title": "Named vulnerabilities and their practical impact",
-              "description": null,
+              "description": "hannob/vulns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8187,7 +8187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:15:08.579Z",
+    "last_updated": "2026-10-03T05:08:44.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Summary of online learning materials",
